@@ -1,4 +1,4 @@
-## TODO
+## To Do
 
 Read http://topicpageswiki.plos.org/wiki/De_Novo_Gene_Birth
 
