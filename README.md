@@ -1,6 +1,6 @@
 # Get Human Gene
 
-Get human genes not found in mouse and vise versa :baby: :mouse:
+Get human genes not found in mouse and vice versa :baby: :mouse:
 
 ## Howdy :wave: :cowboy_hat_face:
 
