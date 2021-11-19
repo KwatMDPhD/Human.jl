@@ -2,14 +2,11 @@ using Revise
 using BenchmarkTools
 
 using DataFrames
-#using PyCall
+using OrderedCollections
 
-using DictExtension
 using Gene
 using LeanProject
 using TableAccess
-
-#kwat = pyimport("kwat")
 
 # ========
 

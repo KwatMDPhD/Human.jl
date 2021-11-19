@@ -169,7 +169,7 @@ uuid = "9fa8497b-333b-5362-9e8d-4d0656e87820"
 
 [[Gene]]
 deps = ["BenchmarkTools", "DataFrames", "Revise", "TableAccess"]
-git-tree-sha1 = "bcd9a3c87043412082298454b64fbc3bd3ab0322"
+git-tree-sha1 = "0101d6132dd99249a04faf71160d058b7d3c05a6"
 repo-rev = "main"
 repo-url = "https://github.com/KwatMDPhD/Gene.jl"
 uuid = "cc9fd088-fb1a-4f6d-a318-f3eb0700c546"
