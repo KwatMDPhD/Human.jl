@@ -30,6 +30,14 @@ In each method, I use their inferred homologies to select human protein-coding g
 
 I repeat the same processes described above for mice.
 
+### Thoughts
+
+I wonder why there is more `mice gene`s than `human gene`s.
+
+How many genes are there in mice anyways?
+
+It may be nice to plot the identified genes by gene families.
+
 ## Howdy :wave: :cowboy_hat_face:
 
 To report a bug, request a feature, or leave a comment (about anything related to this repository), just [submit an issue](https://github.com/KwatMDPhD/get_human_gene.pro/issues/new/choose).
