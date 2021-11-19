@@ -2,13 +2,14 @@ using Revise
 using BenchmarkTools
 
 using DataFrames
-using PyCall
+#using PyCall
 
 using DictExtension
+using Gene
 using LeanProject
 using TableAccess
 
-kwat = pyimport("kwat")
+#kwat = pyimport("kwat")
 
 # ========
 
