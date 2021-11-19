@@ -24,7 +24,7 @@ There is not a perfect method to identify homologies.
 So I rely on human-mouse homologies maintained by 2 major, ongoing bioinformatics efforts: the Mosue Genome Informatics (`MGI`) and `Ensembl`.
 In each method, I use their inferred homologies to select human protein-coding genes that do not have any homology.
 
-### `Mouce Gene`
+### `Mouse Gene`
 
 [mouse_gene_by_method.tsv](./output/mouse_gene_by_method.tsv) is a table whose rows are the genes found in mice but not in humans (`mice gene`s) and columns are methods: `Ensembl` and `MGI`.
 
