@@ -2,7 +2,9 @@
 
 `Lean Project` for getting genes found in humans but not in mice (and vice versa) :baby: :mouse:
 
-[human_gene_by_method.tsv](output/human_gene_by_source.tsv) is a table whose rows are the genes found in humans but not in mice (`human gene`s) and columns are methods: `Ensembl`, `MGI`, `2011 paper`, and `2019 paper`.
+### `Human Gene`
+
+[human_gene_by_method.tsv](./output/human_gene_by_method.tsv) is a table whose rows are the genes found in humans but not in mice (`human gene`s) and columns are methods: `Ensembl`, `MGI`, `2011 paper`, and `2019 paper`.
 
 There is not a perfect method to identify `human gene`s.
 So I tried 4 approaches, hoping that the genes consistently identified by more of the methods are more confident `human genes`s.
@@ -22,9 +24,9 @@ There is not a perfect method to identify homologies.
 So I rely on human-mouse homologies maintained by 2 major, ongoing bioinformatics efforts: the Mosue Genome Informatics (`MGI`) and `Ensembl`.
 In each method, I use their inferred homologies to select human protein-coding genes that do not have any homology.
 
-### Mouce Gene
+### `Mouce Gene`
 
-[mouse_gene_by_method.tsv](output/mouse_gene_by_source.tsv) is a table whose rows are the genes found in mice but not in humans (`mice gene`s) and columns are methods: `Ensembl` and `MGI`.
+[mouse_gene_by_method.tsv](./output/mouse_gene_by_method.tsv) is a table whose rows are the genes found in mice but not in humans (`mice gene`s) and columns are methods: `Ensembl` and `MGI`.
 
 I repeat the same processes described above for mice.
 
