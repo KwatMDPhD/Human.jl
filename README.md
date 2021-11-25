@@ -48,3 +48,38 @@ There are 2293 `mouse gene`s identified by both methods.
 - De novo genes are often single copy, single exon, and small.
 - Humans split from chimpanzee 6 million years ago.
 - De novo gene birth rate is 10 genes per million years.
+- De novo genes' expressions are low.
+- De novo genes have higher substitution rate than human genome; but the corresponding chimpanzee sequences have even higher rate.
+- De novo genes may be made in testes, which is more demethylated and histone modified for more expression.
+
+## `2019 paper` Genes with human-specific features are primarily involved with brain, immune and metabolic evolution
+
+![12859_2019_2886_fig1_html.png](./input/genes_with_human_specific_features_are_primarily_involved_with_brain,_immune_and_metabolic_evolution/12859_2019_2886_fig1_html.png)
+
+![12859_2019_2886_fig2_html.png](./input/genes_with_human_specific_features_are_primarily_involved_with_brain,_immune_and_metabolic_evolution/12859_2019_2886_fig2_html.png)
+
+![12859_2019_2886_fig3_html.png](./input/genes_with_human_specific_features_are_primarily_involved_with_brain,_immune_and_metabolic_evolution/12859_2019_2886_fig3_html.png)
+
+### Lesson
+
+- Human and chimpanzee genomes differ in 30 million substitutions, which is 1.2% of the human genome.
+- The human brain size 3Xed in 2 million years.
+- Subventricular zone produces neuronal cells.
+- Chromosome X and 7 have more human-specific genes.
+- The human specific genes influence infection, diet, and brain expansion.
+
+### Thoughts
+
+I wonder why there is more `mice gene`s than `human gene`s.
+
+How many genes are there in mice anyways?
+
+It may be nice to plot the identified genes by gene families.
+
+## Howdy :wave: :cowboy_hat_face:
+
+To report a bug, request a feature, or leave a comment (about anything related to this repository), just [submit an issue](https://github.com/KwatMDPhD/get_human_gene.pro/issues/new/choose).
+
+---
+
+**Lean Project** made by https://github.com/KwatMDPhD/LeanProject.jl
