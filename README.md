@@ -38,9 +38,9 @@ There are 2293 `mouse gene`s identified by both methods.
 
 ### Identified 60 human specific protein-coding genes of de novo origin, strictly
 
-![pgen.1002379.g001.PNG_L.png](./input/De Novo Origin of Human Protein-Coding Genes/pgen.1002379.g001.PNG_L.png)
+![pgen.1002379.g001.png_l.png](./input/de_novo_origin_of_human_protein_coding_genes/pgen.1002379.g001.png_l.png)
 
-![pgen.1002379.g002.PNG_L.png](./input/De Novo Origin of Human Protein-Coding Genes/pgen.1002379.g002.PNG_L.png)
+![pgen.1002379.g002.png_l.png](./input/de_novo_origin_of_human_protein_coding_genes/pgen.1002379.g002.png_l.png)
 
 ### Lesson
 
@@ -48,38 +48,3 @@ There are 2293 `mouse gene`s identified by both methods.
 - De novo genes are often single copy, single exon, and small.
 - Humans split from chimpanzee 6 million years ago.
 - De novo gene birth rate is 10 genes per million years.
-- De novo genes' expressions are low.
-- De novo genes have higher substitution rate than human genome; but the corresponding chimpanzee sequences have even higher rate.
-- De novo genes may be made in testes, which is more demethylated and histone modified for more expression.
-
-## `2019 paper` Genes with human-specific features are primarily involved with brain, immune and metabolic evolution
-
-![12859_2019_2886_Fig1_HTML.png](./input/Genes with human-specific features are primarily involved with brain, immune and metabolic evolution/12859_2019_2886_Fig1_HTML.png)
-
-![12859_2019_2886_Fig2_HTML.png](./input/Genes with human-specific features are primarily involved with brain, immune and metabolic evolution/12859_2019_2886_Fig2_HTML.png)
-
-![12859_2019_2886_Fig3_HTML.png](./input/Genes with human-specific features are primarily involved with brain, immune and metabolic evolution/12859_2019_2886_Fig3_HTML.png)
-
-### Lesson
-
-- Human and chimpanzee genomes differ in 30 million substitutions, which is 1.2% of the human genome.
-- The human brain size 3Xed in 2 million years.
-- Subventricular zone produces neuronal cells.
-- Chromosome X and 7 have more human-specific genes.
-- The human specific genes influence infection, diet, and brain expansion.
-
-### Thoughts
-
-I wonder why there is more `mice gene`s than `human gene`s.
-
-How many genes are there in mice anyways?
-
-It may be nice to plot the identified genes by gene families.
-
-## Howdy :wave: :cowboy_hat_face:
-
-To report a bug, request a feature, or leave a comment (about anything related to this repository), just [submit an issue](https://github.com/KwatMDPhD/get_human_gene.pro/issues/new/choose).
-
----
-
-**Lean Project** made by https://github.com/KwatMDPhD/LeanProject.jl
