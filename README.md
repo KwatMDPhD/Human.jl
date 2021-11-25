@@ -34,6 +34,40 @@ I repeat the same processes described above for mice.
 
 There are 2293 `mouse gene`s identified by both methods.
 
+## `2011 paper` De Novo Origin of Human Protein-Coding Genes
+
+### Identified 60 human specific protein-coding genes of de novo origin, strictly
+
+![pgen.1002379.g001.PNG_L.png](./input/De Novo Origin of Human Protein-Coding Genes/pgen.1002379.g001.PNG_L.png)
+
+![pgen.1002379.g002.PNG_L.png](./input/De Novo Origin of Human Protein-Coding Genes/pgen.1002379.g002.PNG_L.png)
+
+### Lesson
+
+- De novo genes listed in the previous versions of various databases are removed.
+- De novo genes are often single copy, single exon, and small.
+- Humans split from chimpanzee 6 million years ago.
+- De novo gene birth rate is 10 genes per million years.
+- De novo genes' expressions are low.
+- De novo genes have higher substitution rate than human genome; but the corresponding chimpanzee sequences have even higher rate.
+- De novo genes may be made in testes, which is more demethylated and histone modified for more expression.
+
+## `2019 paper` Genes with human-specific features are primarily involved with brain, immune and metabolic evolution
+
+![12859_2019_2886_Fig1_HTML.png](./input/Genes with human-specific features are primarily involved with brain, immune and metabolic evolution/12859_2019_2886_Fig1_HTML.png)
+
+![12859_2019_2886_Fig2_HTML.png](./input/Genes with human-specific features are primarily involved with brain, immune and metabolic evolution/12859_2019_2886_Fig2_HTML.png)
+
+![12859_2019_2886_Fig3_HTML.png](./input/Genes with human-specific features are primarily involved with brain, immune and metabolic evolution/12859_2019_2886_Fig3_HTML.png)
+
+### Lesson
+
+- Human and chimpanzee genomes differ in 30 million substitutions, which is 1.2% of the human genome.
+- The human brain size 3Xed in 2 million years.
+- Subventricular zone produces neuronal cells.
+- Chromosome X and 7 have more human-specific genes.
+- The human specific genes influence infection, diet, and brain expansion.
+
 ### Thoughts
 
 I wonder why there is more `mice gene`s than `human gene`s.
