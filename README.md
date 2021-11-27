@@ -1,6 +1,6 @@
-# Get Human Gene
+# find_human_gene.pro
 
-`Lean Project` for getting genes found in humans but not in mice (and vice versa) :baby: :mouse:
+`Lean Project` (`.pro`) for getting genes found in humans but not in mice (and vice versa) :baby: :mouse:
 
 ### `Human Gene`
 
