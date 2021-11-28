@@ -1,5 +1,6 @@
 [deps]
 BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+Combinatorics = "861a8166-3701-5b0c-9a16-15d98fcdc6aa"
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
 DictExtension = "0f7716a5-5f77-4abc-9223-ccb88496a673"
 Gene = "cc9fd088-fb1a-4f6d-a318-f3eb0700c546"
@@ -8,5 +9,6 @@ OrderedCollections = "bac558e1-5e72-5ebc-8fee-abe8a469f55d"
 PathExtension = "7c11ae63-6a62-451d-8387-4dfdec5677ae"
 PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
 Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+StringExtension = "e56870c1-e945-4548-a787-b524e22fcae8"
 TableAccess = "a707cf2c-1109-433c-8482-52c38c7a14cd"
 VectorExtension = "5dc7f3b2-d000-489c-bcc0-daa77f8356fb"

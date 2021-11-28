@@ -1,20 +1,22 @@
-using Revise
-using BenchmarkTools
-
+using Combinatorics
 using DataFrames
 using OrderedCollections
 
+using DictExtension
 using Gene
 using LeanProject
 using TableAccess
 
-# ========
+# ==============================================================================
+# Lean Project
+# ==============================================================================
+using Revise
+using BenchmarkTools
 
-# ========
+using LeanProject
+
 se = joinpath("..", "input", "setting.json")
 
-PAR, PAI, PAC, PAO = get_project_path(se)
+PAR, PAI, PAC, PAO = LeanProject.get_project_path(se)
 
-SE = read_setting(se)
-
-# ========
+SE = LeanProject.read_setting(se)

@@ -76,10 +76,12 @@ How many genes are there in mice anyways?
 
 It may be nice to plot the identified genes by gene families.
 
+---
+
 ## Howdy :wave: :cowboy_hat_face:
 
-To report a bug, request a feature, or leave a comment (about anything related to this repository), just [submit an issue](https://github.com/KwatMDPhD/get_human_gene.pro/issues/new/choose).
+To report a bug, request a feature, or leave a comment, just [submit an issue](https://github.com/KwatMDPhD/find_human_gene.pro/issues/new/choose).
 
 ---
 
-**Lean Project** made by https://github.com/KwatMDPhD/LeanProject.jl
+_**Lean Project** powered by https://github.com/KwatMDPhD/LeanProject.jl_

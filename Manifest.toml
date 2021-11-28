@@ -33,6 +33,11 @@ git-tree-sha1 = "ded953804d019afa9a3f98981d99b33e3db7b6da"
 uuid = "944b1d66-785c-5afd-91f1-9de20f533193"
 version = "0.7.0"
 
+[[Combinatorics]]
+git-tree-sha1 = "08c8b6831dc00bfea825826be0bc8336fc369860"
+uuid = "861a8166-3701-5b0c-9a16-15d98fcdc6aa"
+version = "1.0.2"
+
 [[Comonicon]]
 deps = ["ComoniconBuilder", "ComoniconOptions", "ComoniconTargetExpr", "ComoniconTypes", "ComoniconZSHCompletion", "Configurations", "ExproniconLite", "Markdown", "Pkg"]
 git-tree-sha1 = "3ad48ea7ea9ec4659514c95c26f81bdd89894d12"
@@ -169,7 +174,7 @@ uuid = "9fa8497b-333b-5362-9e8d-4d0656e87820"
 
 [[Gene]]
 deps = ["BenchmarkTools", "DataFrames", "Revise", "TableAccess"]
-git-tree-sha1 = "0101d6132dd99249a04faf71160d058b7d3c05a6"
+git-tree-sha1 = "354444c8ecb5d9635bf832dce1f09a0e77145403"
 repo-rev = "main"
 repo-url = "https://github.com/KwatMDPhD/Gene.jl"
 uuid = "cc9fd088-fb1a-4f6d-a318-f3eb0700c546"
@@ -224,8 +229,8 @@ deps = ["Artifacts", "Pkg"]
 uuid = "4af54fe1-eca0-43a8-85a7-787d91b784e3"
 
 [[LeanProject]]
-deps = ["BenchmarkTools", "Comonicon", "IJulia", "JSON", "PathExtension", "Revise", "VectorExtension"]
-git-tree-sha1 = "95127bdf7df9ebce018afaa013cdb143f9008db7"
+deps = ["BenchmarkTools", "Comonicon", "IJulia", "JSON", "PathExtension", "Revise", "StringExtension", "VectorExtension"]
+git-tree-sha1 = "75fda1d3b218b06ef308d0511b111cf786f75469"
 repo-rev = "main"
 repo-url = "https://github.com/KwatMDPhD/LeanProject.jl"
 uuid = "c0bda0dd-97c7-4669-9191-98531c0d3141"
@@ -440,6 +445,14 @@ uuid = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
 [[Statistics]]
 deps = ["LinearAlgebra", "SparseArrays"]
 uuid = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+
+[[StringExtension]]
+deps = ["BenchmarkTools", "Revise", "VectorExtension"]
+git-tree-sha1 = "b8ca3ef9faeed1143165d6d94b5d218579540468"
+repo-rev = "main"
+repo-url = "https://github.com/KwatMDPhD/StringExtension.jl"
+uuid = "e56870c1-e945-4548-a787-b524e22fcae8"
+version = "0.1.0"
 
 [[TOML]]
 deps = ["Dates"]
