@@ -174,7 +174,7 @@ uuid = "9fa8497b-333b-5362-9e8d-4d0656e87820"
 
 [[Gene]]
 deps = ["BenchmarkTools", "DataFrames", "Revise", "TableAccess"]
-git-tree-sha1 = "77d5d7ad5061d7f289823b60f299c00dee945378"
+git-tree-sha1 = "1727c4427823e5b7b4d23cf5844bf76ce6a31842"
 repo-rev = "main"
 repo-url = "https://github.com/KwatMDPhD/Gene.jl"
 uuid = "cc9fd088-fb1a-4f6d-a318-f3eb0700c546"
@@ -230,7 +230,7 @@ uuid = "4af54fe1-eca0-43a8-85a7-787d91b784e3"
 
 [[LeanProject]]
 deps = ["BenchmarkTools", "Comonicon", "IJulia", "JSON", "PathExtension", "Revise", "StringExtension", "VectorExtension"]
-git-tree-sha1 = "5ddad476a0b9ec81cd4a25bedd3de011031ba2ed"
+git-tree-sha1 = "4c79fba0d6c3ae1c8ba6a12d727484ac8d87e5bf"
 repo-rev = "main"
 repo-url = "https://github.com/KwatMDPhD/LeanProject.jl"
 uuid = "c0bda0dd-97c7-4669-9191-98531c0d3141"
