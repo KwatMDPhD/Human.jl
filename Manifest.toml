@@ -208,7 +208,7 @@ uuid = "4af54fe1-eca0-43a8-85a7-787d91b784e3"
 
 [[deps.LeanProject]]
 deps = ["BenchmarkTools", "Comonicon", "IJulia", "JSON", "PathExtension", "Revise", "StringExtension", "VectorExtension"]
-git-tree-sha1 = "530b676e44cdafa67e82962a2b14f1778bb88a6f"
+git-tree-sha1 = "f27bcf9e524a58a1fa3ca2c3c59c199bf2e1887d"
 repo-rev = "main"
 repo-url = "https://github.com/KwatMDPhD/LeanProject.jl"
 uuid = "c0bda0dd-97c7-4669-9191-98531c0d3141"
