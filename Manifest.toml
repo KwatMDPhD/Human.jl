@@ -11,9 +11,9 @@ uuid = "2a0f44e3-6c83-55bd-87e4-b1978d98bd5f"
 
 [[BenchmarkTools]]
 deps = ["JSON", "Logging", "Printf", "Profile", "Statistics", "UUIDs"]
-git-tree-sha1 = "61adeb0823084487000600ef8b1c00cc2474cd47"
+git-tree-sha1 = "365c0ea9a8d256686e97736d6b7fb0c880261a7a"
 uuid = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
-version = "1.2.0"
+version = "1.2.1"
 
 [[CSV]]
 deps = ["CodecZlib", "Dates", "FilePathsBase", "InlineStrings", "Mmap", "Parsers", "PooledArrays", "SentinelArrays", "Tables", "Unicode", "WeakRefStrings"]
@@ -39,39 +39,10 @@ uuid = "861a8166-3701-5b0c-9a16-15d98fcdc6aa"
 version = "1.0.2"
 
 [[Comonicon]]
-deps = ["ComoniconBuilder", "ComoniconOptions", "ComoniconTargetExpr", "ComoniconTypes", "ComoniconZSHCompletion", "Configurations", "ExproniconLite", "Markdown", "Pkg"]
-git-tree-sha1 = "3ad48ea7ea9ec4659514c95c26f81bdd89894d12"
+deps = ["Configurations", "ExproniconLite", "Libdl", "Logging", "Markdown", "PackageCompiler", "Pkg", "Scratch", "TOML", "UUIDs"]
+git-tree-sha1 = "c9f050be33ae132ff2b66a260010892dc54cfa9c"
 uuid = "863f3e99-da2a-4334-8734-de3dacbe5542"
-version = "0.11.7"
-
-[[ComoniconBuilder]]
-deps = ["ComoniconOptions", "ComoniconTypes", "ComoniconZSHCompletion", "Libdl", "Logging", "PackageCompiler"]
-git-tree-sha1 = "9a718f5b8a2121b572eb3c53f9319c169341e154"
-uuid = "0acea522-3a8c-4b93-9211-1fc67cbf95d9"
-version = "0.1.4"
-
-[[ComoniconOptions]]
-deps = ["Configurations", "TOML"]
-git-tree-sha1 = "30408d3b8e4eefbfefa60447c6eaa46e820eb808"
-uuid = "a25bc8ac-9d24-42b2-8edd-3d267ec19fc5"
-version = "0.1.2"
-
-[[ComoniconTargetExpr]]
-deps = ["ComoniconOptions", "ComoniconTypes", "ExproniconLite"]
-git-tree-sha1 = "7bd6c2a515cf2fc007ffe61b5de21a12ad120baa"
-uuid = "d6dfd36b-42f3-4a9f-a1cb-6f1a052fed42"
-version = "0.2.4"
-
-[[ComoniconTypes]]
-git-tree-sha1 = "3ed67384a353e88a9140db8bf274aee75af9d36a"
-uuid = "d0eb39ce-029e-40d1-add6-e32b3165f6a3"
-version = "0.2.0"
-
-[[ComoniconZSHCompletion]]
-deps = ["ComoniconTypes"]
-git-tree-sha1 = "225ff13b22f4c88aeb70ce20e89b016c1897790b"
-uuid = "dcf03e4a-d036-4ede-96c9-024e9e9eed12"
-version = "0.2.0"
+version = "0.12.1"
 
 [[Compat]]
 deps = ["Base64", "Dates", "DelimitedFiles", "Distributed", "InteractiveUtils", "LibGit2", "Libdl", "LinearAlgebra", "Markdown", "Mmap", "Pkg", "Printf", "REPL", "Random", "SHA", "Serialization", "SharedArrays", "Sockets", "SparseArrays", "Statistics", "Test", "UUIDs", "Unicode"]
@@ -79,17 +50,21 @@ git-tree-sha1 = "dce3e3fea680869eaa0b774b2e8343e9ff442313"
 uuid = "34da2185-b29b-5c13-b0c7-acf172513d20"
 version = "3.40.0"
 
+[[CompilerSupportLibraries_jll]]
+deps = ["Artifacts", "Libdl"]
+uuid = "e66e0078-7015-5450-92f7-15fbd957f2ae"
+
 [[Conda]]
-deps = ["JSON", "VersionParsing"]
-git-tree-sha1 = "299304989a5e6473d985212c28928899c74e9421"
+deps = ["Downloads", "JSON", "VersionParsing"]
+git-tree-sha1 = "6cdc8832ba11c7695f494c9d9a1c31e90959ce0f"
 uuid = "8f4d0f93-b110-5947-807f-2305c1781a2d"
-version = "1.5.2"
+version = "1.6.0"
 
 [[Configurations]]
 deps = ["ExproniconLite", "OrderedCollections", "TOML"]
-git-tree-sha1 = "79e812c535bb9780ba00f3acba526bde5652eb13"
+git-tree-sha1 = "b0dcafb34cfff977df79fc9927b70a9157a702ad"
 uuid = "5218b696-f38b-4ac9-8b61-a12ec717816d"
-version = "0.16.6"
+version = "0.17.0"
 
 [[Crayons]]
 git-tree-sha1 = "3f71217b538d7aaee0b69ab47d9b7724ca8afa0d"
@@ -103,9 +78,9 @@ version = "1.9.0"
 
 [[DataFrames]]
 deps = ["Compat", "DataAPI", "Future", "InvertedIndices", "IteratorInterfaceExtensions", "LinearAlgebra", "Markdown", "Missings", "PooledArrays", "PrettyTables", "Printf", "REPL", "Reexport", "SortingAlgorithms", "Statistics", "TableTraits", "Tables", "Unicode"]
-git-tree-sha1 = "d785f42445b63fc86caa08bb9a9351008be9b765"
+git-tree-sha1 = "2e993336a3f68216be91eb8ee4625ebbaba19147"
 uuid = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
-version = "1.2.2"
+version = "1.3.0"
 
 [[DataStructures]]
 deps = ["Compat", "InteractiveUtils", "OrderedCollections"]
@@ -128,7 +103,7 @@ uuid = "8bb1440f-4735-579b-a4ab-409b98df4dab"
 
 [[DictExtension]]
 deps = ["BenchmarkTools", "JSON", "OrderedCollections", "Revise"]
-git-tree-sha1 = "45121e3b278498021528088733e38ed203560915"
+git-tree-sha1 = "919bd4600b7dccfc06a857187e7f9cc048073019"
 repo-rev = "main"
 repo-url = "https://github.com/KwatMDPhD/DictExtension.jl"
 uuid = "0f7716a5-5f77-4abc-9223-ccb88496a673"
@@ -174,7 +149,7 @@ uuid = "9fa8497b-333b-5362-9e8d-4d0656e87820"
 
 [[Gene]]
 deps = ["BenchmarkTools", "DataFrames", "Revise", "TableAccess"]
-git-tree-sha1 = "a7877f668a85b19d212edc0b2e83e33d133b533b"
+git-tree-sha1 = "7b7c4d59123bdaed97ad13ed22010877d069720b"
 repo-rev = "main"
 repo-url = "https://github.com/KwatMDPhD/Gene.jl"
 uuid = "cc9fd088-fb1a-4f6d-a318-f3eb0700c546"
@@ -188,9 +163,9 @@ version = "1.23.2"
 
 [[InlineStrings]]
 deps = ["Parsers"]
-git-tree-sha1 = "19cb49649f8c41de7fea32d089d37de917b553da"
+git-tree-sha1 = "ca99cac337f8e0561c6a6edeeae5bf6966a78d21"
 uuid = "842dd82b-1e85-43dc-bf29-5d0ee9dffc48"
-version = "1.0.1"
+version = "1.1.0"
 
 [[InteractiveUtils]]
 deps = ["Markdown"]
@@ -230,7 +205,7 @@ uuid = "4af54fe1-eca0-43a8-85a7-787d91b784e3"
 
 [[LeanProject]]
 deps = ["BenchmarkTools", "Comonicon", "IJulia", "JSON", "PathExtension", "Revise", "StringExtension", "VectorExtension"]
-git-tree-sha1 = "37aea3e77dbc07ec7ffd28338be549a8535515aa"
+git-tree-sha1 = "8eccd1a6dc4f82d8f8a1d635c4dcee076ab24655"
 repo-rev = "main"
 repo-url = "https://github.com/KwatMDPhD/LeanProject.jl"
 uuid = "c0bda0dd-97c7-4669-9191-98531c0d3141"
@@ -262,7 +237,7 @@ uuid = "94ce4f54-9a6c-5748-9c1c-f9c7231a4531"
 version = "1.16.1+1"
 
 [[LinearAlgebra]]
-deps = ["Libdl"]
+deps = ["Libdl", "libblastrampoline_jll"]
 uuid = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 
 [[Logging]]
@@ -309,16 +284,20 @@ uuid = "14a3606d-f60d-562e-9121-12d972cd8159"
 [[NetworkOptions]]
 uuid = "ca575930-c2e3-43a9-ace4-1e988b2c1908"
 
+[[OpenBLAS_jll]]
+deps = ["Artifacts", "CompilerSupportLibraries_jll", "Libdl"]
+uuid = "4536629a-c528-5b80-bd46-f80d51c5b363"
+
 [[OrderedCollections]]
 git-tree-sha1 = "85f8e6578bf1f9ee0d11e7bb1b1456435479d47c"
 uuid = "bac558e1-5e72-5ebc-8fee-abe8a469f55d"
 version = "1.4.1"
 
 [[PackageCompiler]]
-deps = ["Artifacts", "LazyArtifacts", "Libdl", "Pkg", "RelocatableFolders", "UUIDs"]
-git-tree-sha1 = "a16924b37299cc7d6106fac255b44a8c79c7c21f"
+deps = ["Artifacts", "LazyArtifacts", "Libdl", "Pkg", "Printf", "RelocatableFolders", "UUIDs"]
+git-tree-sha1 = "fad8fd026dd1fb19550a9b7aac207d570525334f"
 uuid = "9b87118b-4619-50d2-8e1e-99f35a4d4d9d"
-version = "1.7.7"
+version = "2.0.2"
 
 [[Parsers]]
 deps = ["Dates"]
@@ -328,7 +307,7 @@ version = "2.1.2"
 
 [[PathExtension]]
 deps = ["BenchmarkTools", "Revise", "StringExtension", "VectorExtension"]
-git-tree-sha1 = "f94cc955384592e424ca83d29d2c51a44ea0bece"
+git-tree-sha1 = "f50df674b1ed3e8629e72995d6b578a1377c425d"
 repo-rev = "main"
 repo-url = "https://github.com/KwatMDPhD/PathExtension.jl"
 uuid = "7c11ae63-6a62-451d-8387-4dfdec5677ae"
@@ -375,7 +354,7 @@ deps = ["InteractiveUtils", "Markdown", "Sockets", "Unicode"]
 uuid = "3fa0cd96-eef1-5676-8a61-b3b8758bbffb"
 
 [[Random]]
-deps = ["Serialization"]
+deps = ["SHA", "Serialization"]
 uuid = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 
 [[Reexport]]
@@ -448,7 +427,7 @@ uuid = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 
 [[StringExtension]]
 deps = ["BenchmarkTools", "Revise", "VectorExtension"]
-git-tree-sha1 = "654c41014faf3ea496d1a7d8bee2e319ed01b41c"
+git-tree-sha1 = "bc9194880294358215c3fac38b0bea95527a9554"
 repo-rev = "main"
 repo-url = "https://github.com/KwatMDPhD/StringExtension.jl"
 uuid = "e56870c1-e945-4548-a787-b524e22fcae8"
@@ -460,7 +439,7 @@ uuid = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
 
 [[TableAccess]]
 deps = ["BenchmarkTools", "CSV", "CodecZlib", "DataFrames", "Mmap", "Revise", "XLSX"]
-git-tree-sha1 = "d7359d0f9ae608ec00680b18e121939603bfc40f"
+git-tree-sha1 = "7409ea2edab38846d20f518c164d512f9f9f7f25"
 repo-rev = "main"
 repo-url = "https://github.com/KwatMDPhD/TableAccess.jl"
 uuid = "a707cf2c-1109-433c-8482-52c38c7a14cd"
@@ -501,7 +480,7 @@ uuid = "4ec0a83e-493e-50e2-b9ac-8f72acf5a8f5"
 
 [[VectorExtension]]
 deps = ["BenchmarkTools", "Revise"]
-git-tree-sha1 = "ac44657dd794e77497b5ca5ed08311752cdd55c5"
+git-tree-sha1 = "466351b4b5880e819130dc250d120549429c941c"
 repo-rev = "main"
 repo-url = "https://github.com/KwatMDPhD/VectorExtension.jl"
 uuid = "5dc7f3b2-d000-489c-bcc0-daa77f8356fb"
@@ -551,6 +530,10 @@ version = "0.9.4"
 [[Zlib_jll]]
 deps = ["Libdl"]
 uuid = "83775a58-1f1d-513f-b197-d71354ab007a"
+
+[[libblastrampoline_jll]]
+deps = ["Artifacts", "Libdl", "OpenBLAS_jll"]
+uuid = "8e850b90-86db-534c-a0d3-1478176c7d93"
 
 [[libsodium_jll]]
 deps = ["Artifacts", "JLLWrappers", "Libdl", "Pkg"]
