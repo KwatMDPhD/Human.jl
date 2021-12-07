@@ -26,8 +26,6 @@ function write_gene_by_method(
     me_ge_::OrderedDict{String,Vector{String}},
 )::DataFrame
 
-    DictExtension.write(joinpath(di, "method_to_$(or)_genes.json"), sort(me_ge_))
-
     ge_ = unique(vcat(values(me_ge_)...))
 
     an_ge_me = DataFrame("Gene" => ge_)
@@ -42,7 +40,7 @@ function write_gene_by_method(
 
     sort!(an_ge_me, "Sum"; rev = true)
 
-    TableAccess.write(joinpath(di, "$(or)_gene_by_method.tsv"), an_ge_me)
+    TableAccess.write(joinpath(di, string(or, "_gene_by_method.tsv")), an_ge_me)
 
     return an_ge_me
 
