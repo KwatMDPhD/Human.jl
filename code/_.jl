@@ -11,13 +11,15 @@ SE = LeanProject.read_setting(se)
 
 # ---
 
-using Combinatorics
 using DataFrames
 using OrderedCollections
+using PlotlyJS
+using StatsBase
 
 using DictExtension
+using FinalFigure
 using Gene
-using LeanProject
+using PathExtension
 using TableAccess
 
 function write_gene_by_method(
