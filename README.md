@@ -2,16 +2,16 @@
 
 `Lean Project` (`.pro`) for getting genes found in humans but not in mice (and vice versa) :baby:
 
-### `Human Gene`
+## `Human Gene`
 
-[human_gene_by_method.tsv](./output/human_gene_by_method.tsv) is a table whose rows are the genes found in humans but not in mice (`human gene`s) and columns are methods: `Ensembl`, `MGI`, `2011 paper`, and `2019 paper`.
+[human_gene_by_method.tsv](output/human_gene_by_method.tsv) is a table whose rows are the genes found in humans but not in mice (`human gene`s) and columns are methods: `Ensembl`, `MGI`, `2011 paper`, and `2019 paper`.
 
 There is not a perfect method to identify `human gene`s.
 So I tried 4 approaches, hoping that the genes consistently identified by more of the methods are more confident `human genes`s.
 The last column of the table is the number of times `human gene`s are identified in the methods.
 The `human gene` at the top is `DNAH10OS` which has the score of 4, meaning that all 4 methods identified it as a `human gene`.
 
-### Methods
+## Methods
 
 In 2 of the methods, I get `human gene`s already identified from a paper.
 The papers are: [De Novo Origin of Human Protein-Coding Genes](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1002379) (`2011 paper`) and [Genes with human-specific features are primarily involved with brain, immune and metabolic evolution](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2886-2) (`2019 paper`).
@@ -26,9 +26,9 @@ In each method, I use their inferred homologies to select human protein-coding g
 
 There are 66 `human gene`s identified by at least 3 methods and 1071 by at least 2.
 
-### `Mouse Gene`
+## `Mouse Gene`
 
-[mouse_gene_by_method.tsv](./output/mouse_gene_by_method.tsv) is a table whose rows are the genes found in mice but not in humans (`mice gene`s) and columns are methods: `Ensembl` and `MGI`.
+[mouse_gene_by_method.tsv](output/mouse_gene_by_method.tsv) is a table whose rows are the genes found in mice but not in humans (`mice gene`s) and columns are methods: `Ensembl` and `MGI`.
 
 I repeat the same processes described above for mice.
 
@@ -38,11 +38,9 @@ There are 2293 `mouse gene`s identified by both methods.
 
 ### Identified 60 human specific protein-coding genes of de novo origin, strictly
 
-![pgen.1002379.g001.png_l.png](./input/de_novo_origin_of_human_protein_coding_genes/pgen.1002379.g001.png_l.png)
+![pgen.1002379.g001.png_l.png](input/de_novo_origin_of_human_protein_coding_genes/pgen.1002379.g001.png_l.png)
 
-![pgen.1002379.g002.png_l.png](./input/de_novo_origin_of_human_protein_coding_genes/pgen.1002379.g002.png_l.png)
-
-### Lesson
+![pgen.1002379.g002.png_l.png](input/de_novo_origin_of_human_protein_coding_genes/pgen.1002379.g002.png_l.png)
 
 - De novo genes listed in the previous versions of various databases are removed.
 - De novo genes are often single copy, single exon, and small.
@@ -54,13 +52,11 @@ There are 2293 `mouse gene`s identified by both methods.
 
 ## `2019 paper` Genes with human-specific features are primarily involved with brain, immune and metabolic evolution
 
-![12859_2019_2886_fig1_html.png](./input/genes_with_human_specific_features_are_primarily_involved_with_brain,_immune_and_metabolic_evolution/12859_2019_2886_fig1_html.png)
+![12859_2019_2886_fig1_html.png](input/genes_with_human_specific_features_are_primarily_involved_with_brain,_immune_and_metabolic_evolution/12859_2019_2886_fig1_html.png)
 
-![12859_2019_2886_fig2_html.png](./input/genes_with_human_specific_features_are_primarily_involved_with_brain,_immune_and_metabolic_evolution/12859_2019_2886_fig2_html.png)
+![12859_2019_2886_fig2_html.png](input/genes_with_human_specific_features_are_primarily_involved_with_brain,_immune_and_metabolic_evolution/12859_2019_2886_fig2_html.png)
 
-![12859_2019_2886_fig3_html.png](./input/genes_with_human_specific_features_are_primarily_involved_with_brain,_immune_and_metabolic_evolution/12859_2019_2886_fig3_html.png)
-
-### Lesson
+![12859_2019_2886_fig3_html.png](input/genes_with_human_specific_features_are_primarily_involved_with_brain,_immune_and_metabolic_evolution/12859_2019_2886_fig3_html.png)
 
 - Human and chimpanzee genomes differ in 30 million substitutions, which is 1.2% of the human genome.
 - The human brain size 3Xed in 2 million years.
@@ -68,13 +64,19 @@ There are 2293 `mouse gene`s identified by both methods.
 - Chromosome X and 7 have more human-specific genes.
 - The human specific genes influence infection, diet, and brain expansion.
 
-### Thoughts
+## Thoughts
 
 I wonder why there is more `mice gene`s than `human gene`s.
 
 How many genes are there in mice anyways?
 
-It may be nice to plot the identified genes by gene families.
+## Human immune population genes
+
+[human_human_immune_population_gene_by_information.tsv](output/human_human_immune_population_gene_by_information.tsv)
+
+![human_human_immune_population_genes](output/human_human_immune_population_genes.png)
+
+![human_human_immune_population_genes_by_group](output/human_human_immune_population_genes_by_group.png)
 
 ---
 
