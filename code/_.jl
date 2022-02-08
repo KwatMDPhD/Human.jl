@@ -29,7 +29,7 @@ using TableAccess
 function write_gene_by_method(
     di::String,
     or::String,
-    me_ge_::OrderedDict{String,Vector{String}},
+    me_ge_::OrderedDict{String, Vector{String}},
 )::DataFrame
 
     ge_ = unique(vcat(values(me_ge_)...))
