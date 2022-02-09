@@ -1,0 +1,399 @@
+Gene	Human Immune Population and Brain Cell Type	Group
+NBPF14	ast	NBPF members
+ABCA10	end	ATP binding cassette subfamily A
+ADA2	mic	Adenosine deaminase family
+ANKRD30B	neu	Ankyrin repeat domain containing|MicroRNA protein coding host genes
+ANKRD36B	neu	Ankyrin repeat domain containing
+APOBEC3A	Neutrophils LD	Apolipoprotein B mRNA editing enzyme catalytic subunits
+APOBEC3C	mic	Apolipoprotein B mRNA editing enzyme catalytic subunits
+BEX5	neu	Brain expressed X-linked family
+CASP10	end & mic	Caspases|Death effector domain containing|Death inducing signaling complex 
+CASTOR3	oli	?
+CBWD2	mic	?
+CCL4L1	mic	Chemokine ligands
+CD1B	mDCs	CD molecules|C1-set domain containing
+CD1E	mDCs	CD molecules|C1-set domain containing
+CETP	end	BPI fold containing
+CLEC2B	end & mic	C-type lectin domain containing
+CLECL1	mic	?
+CLIC2	end & mDCs	Chloride intracellular channels
+COL21A1	neu	Collagens
+CXCL8	end & mic	Chemokine ligands|Interleukins
+DDX60L	end	Ski2 like RNA helicases
+DIRAS3	neu	RAS type GTPase family
+DSG3	Basophils LD	Desmosomal cadherins
+ENOSF1	oli	?
+ERVMER34-1	end	Envelope ERV derived genes
+FAAH2	Tfh+Th	?
+FAM153B	neu	?
+FAM177B	B Naive & mic	?
+FCAR	Neutrophils LD & mic	CD molecules|Immunoglobulin like domain containing
+GALNT8	neu	Polypeptide N-acetylgalactosaminyltransferases
+GCSAML	Basophils LD	?
+GLUD2	ast	?
+GLYATL1B	B Naive	?
+GSTA4	neu	Soluble glutathione S-transferases
+H2AC19	Neutrophils LD	H2A histones
+H2BC4	Neutrophils LD	H2B histones
+HLA-DPA1	mic	Histocompatibility complex|C1-set domain containing
+HLA-DPB1	mic	Histocompatibility complex|C1-set domain containing
+HMSD	oli	Minor histocompatibility antigens
+HSPA6	Neutrophils LD & mic	Heat shock 70kDa proteins
+IFI6	end	?
+IL32	end	Interleukins
+KCNK17	pDCs	Potassium two pore domain channel subfamily K 
+KIAA1107	neu	?
+KLRF1	NK	Killer cell lectin like receptors|C-type lectin domain containing
+LGALS9B	NK	Galectins
+LILRA6	Neutrophils LD	CD molecules|Activating leukocyte immunoglobulin like receptors
+LRRC70	Progenitors & end	?
+MAGED4	Progenitors	MAGE family|Small nucleolar RNA protein coding host genes
+MX2	end & mic	?
+MXRA5	end	I-set domain containing
+NBPF19	ast	NBPF members
+NBPF26	ast	NBPF members
+NPAP1	neu	?
+NT5DC4	Monocytes I	?
+OXER1	Basophils LD	Leukotriene receptors
+PAAF1	oli	WD repeat domain containing
+PEAK3	Neutrophils LD	?
+PI3	Neutrophils LD	WAP four-disulfide core domain containing
+PLAAT2	Plasmablasts	Phospholipase A and acyltransferase family
+PLEKHG7	B SM	Pleckstrin homology domain containing|Dbl family Rho GEFs
+PRTFDC1	oli	?
+RNF175	neu	Ring finger proteins
+S100A12	Neutrophils LD	S100 calcium binding proteins|EF-hand domain containing
+S100P	Neutrophils LD	S100 calcium binding proteins|EF-hand domain containing
+SLC6A15	neu & oli	Solute carriers
+SLC9C2	pDCs	Solute carriers
+ST20	Neutrophils LD	?
+STS	neu	Sulfatases|MicroRNA protein coding host genes
+STX10	end	Syntaxins
+TCEAL2	neu	Transcription elongation factor A like family
+THAP5	oli	THAP domain containing
+TLR10	mic	CD molecules|Toll like receptors
+TM4SF18	end	?
+TMEM272	Neutrophils LD	?
+TRABD2A	T Naive	?
+TRIM49D1	Basophils LD	Ring finger proteins|Tripartite motif containing
+TRIM49D2	Basophils LD	Ring finger proteins|Tripartite motif containing
+TRIM51	Basophils LD	Ring finger proteins|Tripartite motif containing
+TRIM64	Basophils LD	Ring finger proteins|Tripartite motif containing
+VSTM1	Monocytes C	Immunoglobulin like domain containing
+ZIM2	neu	Zinc fingers C2H2-type
+ZNF285	ast	Zinc fingers C2H2-type
+ZNF385D	Progenitors & neu	?
+ZNF404	ast	Zinc fingers C2H2-type
+ZNF415	oli	Zinc fingers C2H2-type
+ZNF577	oli	Zinc fingers C2H2-type
+ZNF607	oli	Zinc fingers C2H2-type
+ZNF671	ast	Zinc fingers C2H2-type
+ZNF708	mic & oli	Zinc fingers C2H2-type
+ZNF728	oli	Zinc fingers C2H2-type
+ZNF860	B Naive+Memory	Zinc fingers C2H2-type
+ZNF98	ast	Zinc fingers C2H2-type
+FCGR2C	Monocytes NC+I	CD molecules|Immunoglobulin like domain containing
+SRGAP2B	mic	F-BAR domain containing |Small nucleolar RNA protein coding host genes
+SRGAP2C	mic	F-BAR domain containing 
+A2ML1	ast	C3 and PZP like, alpha-2-macroglobulin domain containing
+ACTN4	end	Actinins
+ADAM9	mic	ADAM metallopeptidase domain containing
+ADGRE2	mic	CD molecules|Adhesion G protein-coupled receptors, subfamily E
+ADGRE3	Granulocytes LD	Adhesion G protein-coupled receptors, subfamily E
+AHI1	neu	WD repeat domain containing
+AKR1C1	end	Aldo-keto reductases
+AKR1C2	neu	Aldo-keto reductases
+AKR1C3	Progenitors	Aldo-keto reductases
+ANK3	neu & oli	Ankyrin repeat domain containing
+ANKRD18A	oli	Ankyrin repeat domain containing
+ANKRD18B	neu	Ankyrin repeat domain containing
+ANKRD26	neu	Ankyrin repeat domain containing
+ANKS1B	neu & oli	Ankyrin repeat domain containing|Sterile alpha motif domain containing
+ANOS1	ast	WAP four-disulfide core domain containing|Fibronectin type III domain containing
+APAF1	mic	WD repeat domain containing|Caspase recruitment domain containing|Apoptosome
+APOBEC3B	Plasmablasts	Apolipoprotein B mRNA editing enzyme catalytic subunits|Minor histocompatibility antigens
+ARHGEF4	ast	Pleckstrin homology domain containing|Dbl family Rho GEFs
+ATAD2	end	AAA ATPases|Bromodomain containing|MicroRNA protein coding host genes
+B4GALT6	Progenitors & neu	Beta 4-glycosyltransferases
+BMP8B	oli	Bone morphogenetic proteins
+BTN3A3	end	Butyrophilins|V-set domain containing
+BTNL8	Neutrophils LD	Butyrophilins|V-set domain containing
+CADPS	neu	Pleckstrin homology domain containing
+CASP4	end & mic	Caspases|Caspase recruitment domain containing
+CASP5	Monocytes NC	Caspases|Caspase recruitment domain containing
+CCDC121	oli	?
+CCDC163	ast	?
+CCDC183	pDCs	?
+CCDC7	oli	?
+CCL3L3	mic	Chemokine ligands
+CDK2	end	Cyclin dependent kinases
+CERS1	ast	CERS class homeoboxes
+CFH	MAIT & end	Sushi domain containing|Complement system regulators and receptors
+CHST6	oli	Sulfotransferases, membrane bound
+CNTNAP5	neu & oli	Contactin associated protein family
+COL24A1	Progenitors & end	Collagens
+COL9A3	B NSM & oli	Collagens|Collagen proteoglycans
+COQ10A	ast	?
+CSGALNACT1	ast	Beta 4-glycosyltransferases
+CSNK1A1L	Neutrophils LD	casein kinase 1 family
+CTSL	Monocytes NC+I & mic	Cathepsins
+CTSV	pDCs	Cathepsins
+CXCL1	Neutrophils LD & end	Chemokine ligands
+CXCL2	Monocytes C & ast & end	Chemokine ligands
+CXCL3	Monocytes C	Chemokine ligands
+CXCL5	ast	Chemokine ligands
+CYSLTR2	end	Leukotriene receptors
+DGKA	mic	EF-hand domain containing|Diacylglycerol kinases
+DLGAP1	neu	?
+DSC1	T CD8 Naive	Desmosomal cadherins
+DSC2	Neutrophils LD	Desmosomal cadherins
+DSG2	Progenitors	Desmosomal cadherins
+ECH1	end	?
+ERBB3	oli	Erb-b2 receptor tyrosine kinases
+ESYT1	end	Extended synaptotagmins
+FAM133A	neu	?
+FCGBP	mic	?
+FCGRT	mic	C1-set domain containing
+FCRL2	B NSM	CD molecules|Immunoglobulin like domain containing
+FOLR3	Neutrophils LD	?
+FXYD5	end	?
+GABRA3	neu	Gamma-aminobutyric acid type A receptor subunits|MicroRNA protein coding host genes
+GABRE	end	Gamma-aminobutyric acid type A receptor subunits|MicroRNA protein coding host genes
+GBP1	end & mic	Guanylate binding proteins
+GBP4	end	Guanylate binding proteins
+GET1	oli	Guided entry of tail-anchored proteins complex subunits
+GGTA1	mic & pDCs	?
+GLUD1	ast	?
+GNG5	end	G protein subunits gamma
+GPR34	Basophils LD & mic	G protein-coupled receptors, Class A orphans
+GPR84	Monocytes C & mic	G protein-coupled receptors, Class A orphans
+GRIA3	neu & oli	Glutamate ionotropic receptor AMPA type subunits
+GSTM5	ast	Soluble glutathione S-transferases
+H2AC6	oli	H2A histones
+H3C4	Neutrophils LD	H3 histones
+HBB	end	Hemoglobin subunits
+HBD	Progenitors	Hemoglobin subunits
+HLA-DQA1	mic	Histocompatibility complex|C1-set domain containing
+HMGB3	neu	Canonical high mobility group
+IDO1	mDCs	?
+IFI27	end	?
+IFITM2	end	Interferon induced transmembrane proteins
+IFITM3	ast & end	Interferon induced transmembrane proteins
+IKZF2	oli	Zinc fingers C2H2-type
+IL3RA	Basophils LD	CD molecules|Interleukin receptors|Pseudoautosomal region 1
+ITGA5	end & mic	CD molecules|Integrin alpha subunits
+ITGA7	ast	Integrin alpha subunits
+KRT81	Basophils LD	Keratins, type II
+KRT86	Basophils LD	Keratins, type II
+LAMP2	oli	CD molecules|Lysosome associated membrane proteins
+LANCL1	oli	?
+LGALS9C	NK	Galectins
+LILRA1	Monocytes NC+I	CD molecules|Activating leukocyte immunoglobulin like receptors
+LILRA2	Myeloid	CD molecules|Activating leukocyte immunoglobulin like receptors
+LILRA4	pDCs	CD molecules|Activating leukocyte immunoglobulin like receptors
+LILRA5	Monocytes	CD molecules|Activating leukocyte immunoglobulin like receptors
+LILRB2	Monocytes NC+I	CD molecules|Inhibitory leukocyte immunoglobulin like receptors|Ig-like cell adhesion molecule family
+LIMS1	mic	LIM zinc finger domain containing|LIM domain containing
+LPL	end & mic	Lipases
+MAOB	ast	?
+MAP7	Progenitors & oli	?
+MMP19	end & mic	M10 matrix metallopeptidases
+MT3	ast	Metallothioneins
+MTM1	ast	Myotubularins|Phosphoinositide phosphatases
+MTMR1	ast	Myotubularins|Phosphoinositide phosphatases
+MXRA7	end	?
+MYB	Progenitors	Myb/SANT domain containing
+MYL6	end	Myosin light chains, class 1
+NCKAP1L	mic	?
+NDP	ast & oli	Receptor ligands
+NEFM	neu	Intermediate filaments Type IV
+NFE2	Basophils LD	Basic leucine zipper proteins
+NLGN4Y	neu	Neuroligins
+NLRP7	pDCs	NLR family|Pyrin domain containing
+NNAT	neu	?
+NOTCH4	end & pDCs	Notch receptors
+NPY1R	neu	Neuropeptide Y receptors
+NUDT10	Progenitors & neu	Nudix hydrolase family
+OR6K3	Basophils LD	Olfactory receptors, family 6
+PABPC1	mic	RNA binding motif containing|MicroRNA protein coding host genes
+PCP4	neu	?
+PDE7B	ast	Phosphodiesterases
+PILRA	Myeloid & mic	V-set domain containing
+PRCD	oli	?
+PROC	pDCs	Receptor ligands|Gla domain containing
+PRRG3	neu	Proline rich and Gla domain containing
+PTMA	oli	MicroRNA protein coding host genes
+PTPRG	ast & end	Fibronectin type III domain containing|Protein tyrosine phosphatases receptor type
+RAB32	Basophils LD & mic	RAB, member RAS oncogene GTPases|A-kinase anchoring proteins
+RBMS2	end	RNA binding motif containing
+RHOBTB1	end	Rho family GTPases|BTB domain containing
+RNF135	mic	Ring finger proteins
+RPL10	end	L ribosomal proteins|Small nucleolar RNA protein coding host genes
+RPL12	end	L ribosomal proteins|Small nucleolar RNA protein coding host genes
+SCD5	ast & oli	Fatty acid desaturases|MicroRNA protein coding host genes
+SEPTIN4	oli	Septins
+SERF2	end	?
+SHC2	end	SH2 domain containing
+SIGLEC14	Myeloid & mic	V-set domain containing|Sialic acid binding Ig like lectins
+SIGLEC5	Neutrophils LD	CD molecules|V-set domain containing|Sialic acid binding Ig like lectins
+SIGLEC7	NK	CD molecules|V-set domain containing|Sialic acid binding Ig like lectins
+SIGLEC9	Myeloid Phagocytes & mic	CD molecules|V-set domain containing|Sialic acid binding Ig like lectins
+SIRPB2	Neutrophils LD	V-set domain containing|Signal regulatory proteins
+SIRPD	Neutrophils LD	V-set domain containing|Signal regulatory proteins
+SIRT2	oli	Sirtuins
+SLC2A3	end	Solute carriers
+SLC37A3	neu	Solute carriers
+SLFN11	end	Schlafen family
+SMIM10	end	?
+SMIM6	pDCs	?
+SP100	end & mic	PHD finger proteins|Bromodomain containing
+SP140L	mic	PHD finger proteins|Bromodomain containing
+SPTSSB	NK	?
+SRD5A3	oli	Steroid 5-alpha reductase family
+STARD9	oli	Kinesins|StAR related lipid transfer domain containing
+SULT1C4	Progenitors	Sulfotransferases, cytosolic
+SUOX	ast	?
+TACC1	end	TACC family
+TICAM2	Myeloid Phagocytes	TIR domain containing
+TLCD4	ast	TLC domain containing
+TMEM196	neu	?
+TMSB4X	mic	?
+TMTC2	oli	Tetratricopeptide repeat domain containing|Transmembrane and tetratricopeptide repeat containing
+TNFRSF10A	mic	CD molecules|Tumor necrosis factor receptor superfamily
+TPM2	end & pDCs	Tropomyosins
+TPM3	mic	Tropomyosins
+TPSD1	Progenitors	?
+TRIM64B	Basophils LD	Ring finger proteins|Tripartite motif containing
+TTYH1	ast	Tweety family
+UGT2B11	Basophils LD	UDP glucuronosyltransferases
+VWDE	neu	?
+ZFYVE16	oli	Zinc fingers FYVE-type|Protein phosphatase 1 regulatory subunits
+ZMAT4	NK & neu	Zinc fingers matrin-type
+ZNF267	mic	Zinc fingers C2H2-type
+ZNF3	mic	Zinc fingers C2H2-type
+ZNF385A	Myeloid Phagocytes	?
+ZNF490	mic	Zinc fingers C2H2-type
+ZNF585B	oli	Zinc fingers C2H2-type
+ZNF683	T CD8 TE	Zinc fingers C2H2-type
+ZNF91	neu	Zinc fingers C2H2-type
+CPAMD8	end	C3 and PZP like, alpha-2-macroglobulin domain containing
+FAXDC2	end & oli	Fatty acid hydroxylase domain containing
+MS4A4E	Basophils LD	Membrane spanning 4-domains|MicroRNA protein coding host genes
+TPSB2	Progenitors	?
+TRIM22	end & mic	Ring finger proteins|Tripartite motif containing|Minor histocompatibility antigens
+ZNF273	neu	Zinc fingers C2H2-type
+ZNF627	oli	Zinc fingers C2H2-type
+ZNF680	ast	Zinc fingers C2H2-type
+ZNF700	mic	Zinc fingers C2H2-type
+ZNF738	oli	?
+AATBC	Monocytes NC+I	Long non-coding RNAs with non-systematic symbols
+ACVR1C	oli	Type 1 receptor serine/threonine kinases
+AGAP1	oli	ArfGAPs|Ankyrin repeat domain containing|BAR-PH domain containing
+AGT	ast	Serpin peptidase inhibitors|Neuropeptides
+APEH	ast	?
+APOE	ast	Apolipoproteins
+APOL1	end	Apolipoproteins
+AREG	Basophils LD	Receptor ligands
+ARHGAP15	mic	Pleckstrin homology domain containing|Rho GTPase activating proteins
+ARHGAP42	end	AH/BAR family Rho GTPase activating proteins
+CD24	B Naive+Memory & neu	CD molecules
+CD33	Myeloid Phagocytes & mic	CD molecules|V-set domain containing|Sialic acid binding Ig like lectins
+CD44	end	Blood group antigens|CD molecules|Proteoglycans
+CDH12	neu	Type II classical cadherins
+CEP170	mic	?
+CHRFAM7A	Progenitors	?
+CHRM3	Progenitors & neu	Cholinergic receptors muscarinic
+CLEC10A	mDCs	CD molecules|C-type lectin domain containing
+CMAHP	end	Metallo-beta-lactamase fold containing family
+CNTNAP2	neu	Contactin associated protein family
+CORO1A	mic	WD repeat domain containing|Coronins
+DDR2	ast	Receptor tyrosine kinases
+DIXDC1	oli	Dishevelled segment polarity proteins
+DPY19L2	Progenitors	?
+DUSP7	oli	MAP kinase phosphatases
+DYNC1I2	oli	WD repeat domain containing|Dynein 1 complex subunits
+EBF1	B Naive+Memory & end	Early B-cell factors|IPT domain containing
+ADGRE4P	Basophils LD	Adhesion G protein-coupled receptors, subfamily E
+FANK1	Tregs	Ankyrin repeat domain containing|Fibronectin type III domain containing
+FBXO25	end	F-boxes other
+FCGR1A	Neutrophils LD & mic	CD molecules|Immunoglobulin like domain containing
+FCGR1BP	Neutrophils LD & mic	Immunoglobulin like domain containing
+FCGR3A	mic	CD molecules|Immunoglobulin like domain containing
+FCGR3B	Neutrophils LD	CD molecules|Immunoglobulin like domain containing
+FKBP9	ast & end	EF-hand domain containing|FKBP prolyl isomerases
+FMNL1	mic	Armadillo like helical domain containing|Formins
+FMO2	end	Flavin containing monooxygenases
+FRMPD2	ast	PDZ domain containing|FERM domain containing
+FUT8	oli	Fucosyltransferases|MicroRNA protein coding host genes
+FZD8	ast	G protein-coupled receptors, Class F frizzled|MicroRNA protein coding host genes
+GLI2	ast	Zinc fingers C2H2-type
+GNB5	neu	WD repeat domain containing|G protein subunits beta
+GOLGA8B	neu	MicroRNA protein coding host genes|Golgin related
+ADGRF5	end	I-set domain containing|Immunoglobulin like domain containing|Adhesion G protein-coupled receptors, subfamily F
+ADGRG1	ast	Adhesion G protein-coupled receptors, subfamily G
+GRIN2C	ast	Glutamate ionotropic receptor NMDA type subunits
+GRIN3A	neu	Glutamate ionotropic receptor NMDA type subunits
+H2BC18	Neutrophils LD	H2B histones
+HRH1	ast	Histamine receptors
+ICAM1	end	CD molecules|Receptor ligands|Immunoglobulin like domain containing|Ig-like cell adhesion molecule family
+JAM3	oli	V-set domain containing|Ig-like cell adhesion molecule family|Small nucleolar RNA protein coding host genes
+KANK1	oli	KN motif and ankyrin repeat domain containing
+FAM30A	Progenitors	Long non-coding RNAs with FAM root symbol
+KIR3DL1	NK	CD molecules|Killer cell immunoglobulin like receptors
+KIRREL1	end	C2-set domain containing|I-set domain containing
+KITLG	end & neu	?
+LEPR	end	CD molecules|Immunoglobulin like domain containing
+LILRB3	Neutrophils LD	CD molecules|Inhibitory leukocyte immunoglobulin like receptors
+CYTOR	mic	Long non-coding RNAs with non-systematic symbols
+LINC00632	neu & oli	Long intergenic non-protein coding RNAs
+LINC01102	neu	Long intergenic non-protein coding RNAs
+MAL2	neu	MARVEL domain containing
+MAOA	ast & end	?
+MRC1	mDCs & mic	CD molecules|Scavenger receptors|C-type lectin domain containing|MicroRNA protein coding host genes
+MSI2	ast	RNA binding motif containing
+MYO7B	B Naive	Myosin heavy chains, class VII|FERM domain containing
+NBEA	neu	WD repeat domain containing|A-kinase anchoring proteins|BEACH domain containing |Armadillo like helical domain containing
+NCKAP5	oli	?
+NPAS3	ast	Basic helix-loop-helix proteins
+NRXN3	neu & oli	Neurexins
+NSF	neu	AAA ATPases
+OCLN	end	Protein phosphatase 1 regulatory subunits|Tetraspan junctional complex superfamily|MARVEL domain containing
+OPHN1	ast	AH/BAR family Rho GTPase activating proteins
+OPRM1	neu	Opioid receptors
+OR2A4	Basophils LD	Olfactory receptors, family 2
+OR2A7	Basophils LD	Olfactory receptors, family 2
+OR6K4P	Basophils LD	Olfactory receptors, family 6
+PARP4	mic	Poly(ADP-ribose) polymerases
+PCDH15	oli	Cadherin related|MicroRNA protein coding host genes
+PDE4DIP	ast	?
+PDGFD	NK	?
+PMP2	ast & oli	Fatty acid binding protein family
+PPARG	mic	Peroxisome proliferator activated receptors
+PRKCB	neu	C2 domain containing protein kinases|AGC family kinases|MicroRNA protein coding host genes
+PRKCH	end & mic	C2 domain containing protein kinases|AGC family kinases
+RAB3A	neu	RAB, member RAS oncogene GTPases
+RAB3B	neu	RAB, member RAS oncogene GTPases
+RAB3IP	neu & oli	?
+RANBP2	mic	Zinc fingers RANBP2-type |Tetratricopeptide repeat domain containing|Cyclophilin peptidylprolyl isomerases|Nucleoporins
+RGS6	neu	Regulators of G-protein signaling|MicroRNA protein coding host genes
+ROCK1	mic	Pleckstrin homology domain containing|AGC family kinases
+RP11-1018N14.2	oli	??
+RP11-1023L17.1	oli	??
+RP11-466P24.6	Basophils LD	??
+RP11-707M1.1	neu	??
+SH3PXD2A	oli	?
+SLC12A5	neu	Solute carriers
+SLC6A13	end	Solute carriers
+SNX29	mic	Sorting nexins
+SRGAP2	mic	F-BAR domain containing |Small nucleolar RNA protein coding host genes|AH/BAR family Rho GTPase activating proteins
+ST6GAL2	Progenitors	Sialyltransferases
+TCF7L2	ast	TCF/LEF transcription factor family|Wnt enhanceosome complex
+TENM1	neu	?
+TENM3	neu	MicroRNA protein coding host genes
+TNFRSF1B	mic	CD molecules|Tumor necrosis factor receptor superfamily|MicroRNA protein coding host genes
+TPPP	oli	Tubulin polymerization promoting proteins
+ZDHHC11	oli	Zinc fingers DHHC-type
+ZDHHC11B	Th2	Zinc fingers DHHC-type
+ZFP36L1	end & mic	Zinc fingers CCCH-type
+ZNF271P	oli	Zinc fingers C2H2-type
+ZNF519	neu	Zinc fingers C2H2-type

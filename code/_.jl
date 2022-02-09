@@ -20,17 +20,9 @@ using OrderedCollections
 using PlotlyJS
 using StatsBase
 
-using DictExtension
-using FinalFigure
-using Gene
-using PathExtension
-using TableAccess
+using OnePiece
 
-function write_gene_by_method(
-    di::String,
-    or::String,
-    me_ge_::OrderedDict{String, Vector{String}},
-)::DataFrame
+function write_gene_by_method(di, or, me_ge_)
 
     ge_ = unique(vcat(values(me_ge_)...))
 
@@ -46,8 +38,8 @@ function write_gene_by_method(
 
     sort!(an_ge_me, "Sum"; rev = true)
 
-    TableAccess.write(joinpath(di, string(or, "_gene_by_method.tsv")), an_ge_me)
+    write(joinpath(di, string(or, "_gene_by_method.tsv")), an_ge_me)
 
-    return an_ge_me
+    an_ge_me
 
 end
