@@ -43,3 +43,5 @@ function write_gene_by_method(di, or, me_ge_)
     an_ge_me
 
 end
+
+PAR, PAI, PAC, PAO
