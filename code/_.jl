@@ -38,7 +38,7 @@ function write_gene_by_method(di, or, me_ge_)
 
     sort!(an_ge_me, "Sum"; rev = true)
 
-    write(joinpath(di, string(or, "_gene_by_method.tsv")), an_ge_me)
+    OnePiece.io.table.write(joinpath(di, string(or, "_gene_by_method.tsv")), an_ge_me)
 
     an_ge_me
 

@@ -60,12 +60,6 @@ git-tree-sha1 = "19a35467a82e236ff51bc17a3a44b69ef35185a2"
 uuid = "6e34b625-4abd-537c-b88f-471c36dfa7a0"
 version = "1.0.8+0"
 
-[[deps.CSTParser]]
-deps = ["Tokenize"]
-git-tree-sha1 = "6cc1759204bed5a4e2a5c2f00901fd5d90bc7a62"
-uuid = "00ebfdb7-1f24-5e51-bd34-a7502290713f"
-version = "3.3.1"
-
 [[deps.CSV]]
 deps = ["CodecZlib", "Dates", "FilePathsBase", "InlineStrings", "Mmap", "Parsers", "PooledArrays", "SentinelArrays", "Tables", "Unicode", "WeakRefStrings"]
 git-tree-sha1 = "9519274b50500b8029973d241d32cfbf0b127d97"
@@ -125,12 +119,6 @@ deps = ["ColorTypes", "FixedPointNumbers", "Reexport"]
 git-tree-sha1 = "417b0ed7b8b838aa6ca0a87aadf1bb9eb111ce40"
 uuid = "5ae59095-9a9b-59fe-a467-6f913c188581"
 version = "0.12.8"
-
-[[deps.CommonMark]]
-deps = ["Crayons", "JSON", "URIs"]
-git-tree-sha1 = "4aff51293dbdbd268df314827b7f409ea57f5b70"
-uuid = "a80b9123-70ca-4bc0-993e-6e3bcb318db6"
-version = "0.8.5"
 
 [[deps.Comonicon]]
 deps = ["Configurations", "ExproniconLite", "Libdl", "Logging", "Markdown", "PackageCompiler", "Pkg", "Scratch", "TOML", "UUIDs"]
@@ -207,9 +195,9 @@ uuid = "8ba89e20-285c-5b6f-9357-94700520ee1b"
 
 [[deps.Distributions]]
 deps = ["ChainRulesCore", "DensityInterface", "FillArrays", "LinearAlgebra", "PDMats", "Printf", "QuadGK", "Random", "SparseArrays", "SpecialFunctions", "Statistics", "StatsBase", "StatsFuns", "Test"]
-git-tree-sha1 = "d6dc7e55eb64d9d2326436df15df9c8e4d8f1cd4"
+git-tree-sha1 = "38012bf3553d01255e83928eec9c998e19adfddf"
 uuid = "31c24e10-a181-5473-b8eb-7969acd0382f"
-version = "0.25.47"
+version = "0.25.48"
 
 [[deps.DocStringExtensions]]
 deps = ["LibGit2"]
@@ -444,12 +432,6 @@ git-tree-sha1 = "b53380851c6e6664204efb2e62cd24fa5c47e4ba"
 uuid = "aacddb02-875f-59d6-b918-886e6ef4fbf8"
 version = "2.1.2+0"
 
-[[deps.JuliaFormatter]]
-deps = ["CSTParser", "CommonMark", "DataStructures", "Pkg", "Tokenize"]
-git-tree-sha1 = "0d1eb5e5a6b8b9d324a9abfa5ee092156e59a6da"
-uuid = "98e50ef6-434e-11e9-1051-2b60c6c9e899"
-version = "0.22.2"
-
 [[deps.JuliaInterpreter]]
 deps = ["CodeTracking", "InteractiveUtils", "Random", "UUIDs"]
 git-tree-sha1 = "b55aae9a2bf436fc797d9c253a900913e0e90178"
@@ -503,7 +485,7 @@ uuid = "4af54fe1-eca0-43a8-85a7-787d91b784e3"
 
 [[deps.LeanProject]]
 deps = ["BenchmarkTools", "Comonicon", "IJulia", "OnePiece", "Pkg", "Revise"]
-git-tree-sha1 = "aaea6b44752d7ab5093904f00f02953ed1c41864"
+git-tree-sha1 = "b788550d561eddfa92b9a21eaafb076878d7545a"
 repo-rev = "main"
 repo-url = "https://github.com/KwatMDPhD/LeanProject.jl"
 uuid = "c0bda0dd-97c7-4669-9191-98531c0d3141"
@@ -683,12 +665,12 @@ uuid = "e7412a2a-1a6e-54c0-be00-318e2571c051"
 version = "1.3.5+1"
 
 [[deps.OnePiece]]
-deps = ["BenchmarkTools", "CSV", "CodecZlib", "DataFrames", "Distributions", "JSON", "JuliaFormatter", "KernelDensity", "Mmap", "OrderedCollections", "PlotlyJS", "Printf", "Revise", "Statistics", "StatsBase", "TOML", "UUIDs", "XLSX"]
-git-tree-sha1 = "6c9bc665d2574d0531b58af0e1d54e0ebcd6ffd8"
+deps = ["BenchmarkTools", "CSV", "CodecZlib", "DataFrames", "Distributions", "JSON", "KernelDensity", "Mmap", "OrderedCollections", "PlotlyJS", "Printf", "Revise", "Statistics", "StatsBase", "TOML", "UUIDs", "XLSX"]
+git-tree-sha1 = "f4371aaa057c4bd9a57ef14d9f985d146ee3c9ee"
 repo-rev = "main"
 repo-url = "https://github.com/KwatMDPhD/OnePiece.jl"
 uuid = "1fe83854-81c0-42f7-afc9-71ba9af673ca"
-version = "0.4.0"
+version = "0.5.2"
 
 [[deps.OpenBLAS_jll]]
 deps = ["Artifacts", "CompilerSupportLibraries_jll", "Libdl"]
@@ -973,11 +955,6 @@ uuid = "a4e569a6-e804-4fa4-b0f3-eef7a1d5b13e"
 [[deps.Test]]
 deps = ["InteractiveUtils", "Logging", "Random", "Serialization"]
 uuid = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
-
-[[deps.Tokenize]]
-git-tree-sha1 = "0952c9cee34988092d73a5708780b3917166a0dd"
-uuid = "0796e94c-ce3b-5d07-9a54-7f471281c624"
-version = "0.5.21"
 
 [[deps.TranscodingStreams]]
 deps = ["Random", "Test"]
