@@ -1,9 +1,6 @@
 # ---
 # Default lean project things
 
-using Revise
-using BenchmarkTools
-
 using LeanProject
 
 se = joinpath("..", "input", "setting.json")
