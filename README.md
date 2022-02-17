@@ -80,7 +80,7 @@ How many genes are there in mice anyways?
 
 ---
 
-## Howdy :wave: :cowboy_hat_face:
+## :wave: :cowboy_hat_face: Howdy
 
 To report a bug, request a feature, or leave a comment, just [submit an issue](https://github.com/KwatMDPhD/find_human_gene.pro/issues/new/choose).
 
