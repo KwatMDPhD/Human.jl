@@ -279,7 +279,7 @@ uuid = "4af54fe1-eca0-43a8-85a7-787d91b784e3"
 
 [[deps.LeanProject]]
 deps = ["Comonicon", "OnePiece", "Pkg", "PkgRepository"]
-git-tree-sha1 = "d2e262a4e79fd7319070d6ae050f8b3c97adad6b"
+git-tree-sha1 = "dd47fadd5b2e2a30dac946f7b1fbf7487624a377"
 repo-rev = "main"
 repo-url = "https://github.com/KwatMDPhD/LeanProject.jl"
 uuid = "c0bda0dd-97c7-4669-9191-98531c0d3141"
@@ -409,7 +409,7 @@ uuid = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 
 [[deps.PkgRepository]]
 deps = ["Comonicon", "OnePiece", "Pkg", "UUIDs"]
-git-tree-sha1 = "c2a26ea8f50b3ea19913a708c1e62fcf54a4e567"
+git-tree-sha1 = "65c23a42da3841c77249b5e23ecfe0962bae4f6c"
 repo-rev = "main"
 repo-url = "https://github.com/KwatMDPhD/PkgRepository.jl"
 uuid = "b1bf3a08-85ea-42c4-9d3d-993f577bbb34"
