@@ -54,12 +54,6 @@ git-tree-sha1 = "bf98fa45a0a4cee295de98d4c1462be26345b9a1"
 uuid = "9e997f8a-9a97-42d5-a9f1-ce6bfc15e2c0"
 version = "0.1.2"
 
-[[deps.Cobweb]]
-deps = ["DefaultApplication", "Markdown", "Scratch"]
-git-tree-sha1 = "02690a956a19e94c40feacbf368a5adcce5625fd"
-uuid = "ec354790-cf28-43e8-bb59-b484409b7bad"
-version = "0.1.1"
-
 [[deps.CodecZlib]]
 deps = ["TranscodingStreams", "Zlib_jll"]
 git-tree-sha1 = "ded953804d019afa9a3f98981d99b33e3db7b6da"
@@ -119,12 +113,6 @@ version = "1.0.0"
 deps = ["Printf"]
 uuid = "ade2ca70-3891-5945-98fb-dc099432e06a"
 
-[[deps.DefaultApplication]]
-deps = ["InteractiveUtils"]
-git-tree-sha1 = "fc2b7122761b22c87fec8bf2ea4dc4563d9f8c24"
-uuid = "3f0dd361-4fe0-5fc6-8523-80b14ec94d85"
-version = "1.0.0"
-
 [[deps.DelimitedFiles]]
 deps = ["Mmap"]
 uuid = "8bb1440f-4735-579b-a4ab-409b98df4dab"
@@ -141,9 +129,9 @@ uuid = "8ba89e20-285c-5b6f-9357-94700520ee1b"
 
 [[deps.Distributions]]
 deps = ["ChainRulesCore", "DensityInterface", "FillArrays", "LinearAlgebra", "PDMats", "Printf", "QuadGK", "Random", "SparseArrays", "SpecialFunctions", "Statistics", "StatsBase", "StatsFuns", "Test"]
-git-tree-sha1 = "38012bf3553d01255e83928eec9c998e19adfddf"
+git-tree-sha1 = "9d3c0c762d4666db9187f363a76b47f7346e673b"
 uuid = "31c24e10-a181-5473-b8eb-7969acd0382f"
-version = "0.25.48"
+version = "0.25.49"
 
 [[deps.DocStringExtensions]]
 deps = ["LibGit2"]
@@ -154,12 +142,6 @@ version = "0.8.6"
 [[deps.Downloads]]
 deps = ["ArgTools", "LibCURL", "NetworkOptions"]
 uuid = "f43a241f-c20a-4ad4-852c-f6b1247861c6"
-
-[[deps.EasyConfig]]
-deps = ["JSON3", "OrderedCollections", "StructTypes"]
-git-tree-sha1 = "c070b3c48a8ba3c6e6507997f0a7f5ebf85c3600"
-uuid = "acab07b0-f158-46d4-8913-50acef6d41fe"
-version = "0.1.10"
 
 [[deps.ExproniconLite]]
 git-tree-sha1 = "8b08cc88844e4d01db5a2405a08e9178e19e479e"
@@ -192,9 +174,9 @@ version = "0.9.17"
 
 [[deps.FillArrays]]
 deps = ["LinearAlgebra", "Random", "SparseArrays", "Statistics"]
-git-tree-sha1 = "deed294cde3de20ae0b2e0355a6c4e1c6a5ceffc"
+git-tree-sha1 = "4c7d3757f3ecbcb9055870351078552b7d1dbd2d"
 uuid = "1a297f60-69ca-5386-bcde-b61e274b549b"
-version = "0.12.8"
+version = "0.13.0"
 
 [[deps.Formatting]]
 deps = ["Printf"]
@@ -279,7 +261,7 @@ uuid = "4af54fe1-eca0-43a8-85a7-787d91b784e3"
 
 [[deps.LeanProject]]
 deps = ["Comonicon", "OnePiece", "Pkg", "PkgRepository"]
-git-tree-sha1 = "dd47fadd5b2e2a30dac946f7b1fbf7487624a377"
+git-tree-sha1 = "b0f8993072270f6ceb1aaa5534c6255e1fca0271"
 repo-rev = "main"
 repo-url = "https://github.com/KwatMDPhD/LeanProject.jl"
 uuid = "c0bda0dd-97c7-4669-9191-98531c0d3141"
@@ -359,12 +341,12 @@ uuid = "6fe1bfb0-de20-5000-8ca7-80f57d26f881"
 version = "1.10.8"
 
 [[deps.OnePiece]]
-deps = ["BenchmarkTools", "CSV", "Cobweb", "CodecZlib", "DataFrames", "Distributions", "JSON", "KernelDensity", "Mmap", "OrderedCollections", "PlotlyLight", "Printf", "Random", "Statistics", "StatsBase", "TOML", "XLSX"]
-git-tree-sha1 = "15b07d9ec9dfd21d426d90c642c7e00f111d640a"
+deps = ["BenchmarkTools", "CSV", "CodecZlib", "DataFrames", "Distributions", "JSON", "JSON3", "KernelDensity", "Mmap", "OrderedCollections", "Printf", "Random", "Scratch", "Statistics", "StatsBase", "TOML", "XLSX"]
+git-tree-sha1 = "52c5a3f71fad6a1455aa1aa09567bd73add251dd"
 repo-rev = "main"
 repo-url = "https://github.com/KwatMDPhD/OnePiece.jl"
 uuid = "1fe83854-81c0-42f7-afc9-71ba9af673ca"
-version = "0.7.0"
+version = "0.7.1-b"
 
 [[deps.OpenBLAS_jll]]
 deps = ["Artifacts", "CompilerSupportLibraries_jll", "Libdl"]
@@ -409,17 +391,11 @@ uuid = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 
 [[deps.PkgRepository]]
 deps = ["Comonicon", "OnePiece", "Pkg", "UUIDs"]
-git-tree-sha1 = "65c23a42da3841c77249b5e23ecfe0962bae4f6c"
+git-tree-sha1 = "a38e269b8dd4f6bb803f9ef05a266dfedb966c54"
 repo-rev = "main"
 repo-url = "https://github.com/KwatMDPhD/PkgRepository.jl"
 uuid = "b1bf3a08-85ea-42c4-9d3d-993f577bbb34"
 version = "0.5.0"
-
-[[deps.PlotlyLight]]
-deps = ["Artifacts", "Cobweb", "DefaultApplication", "Downloads", "EasyConfig", "JSON3", "Random"]
-git-tree-sha1 = "9ea43624437e21fd24ac9565aa3d6386711b354b"
-uuid = "ca7969ec-10b3-423e-8d99-40f33abb42bf"
-version = "0.4.4"
 
 [[deps.PooledArrays]]
 deps = ["DataAPI", "Future"]
