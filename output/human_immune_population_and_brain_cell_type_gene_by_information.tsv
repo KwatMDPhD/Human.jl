@@ -1,0 +1,64 @@
+Gene	Human Immune Population and Brain Cell Type	Group
+COL9A3	B NSM & oli	Collagens|Collagen proteoglycans
+FAM177B	B Naive & mic	?
+EBF1	B Naive+Memory & end	Early B-cell factors|IPT domain containing
+CD24	B Naive+Memory & neu	CD molecules
+GPR34	Basophils LD & mic	G protein-coupled receptors, Class A orphans
+RAB32	Basophils LD & mic	RAB, member RAS oncogene GTPases|A-kinase anchoring proteins
+CFH	MAIT & end	Sushi domain containing|Complement system regulators and receptors
+CXCL2	Monocytes C & ast & end	Chemokine ligands
+GPR84	Monocytes C & mic	G protein-coupled receptors, Class A orphans
+CTSL	Monocytes NC+I & mic	Cathepsins
+PILRA	Myeloid & mic	V-set domain containing
+SIGLEC14	Myeloid & mic	V-set domain containing|Sialic acid binding Ig like lectins
+SIGLEC9	Myeloid Phagocytes & mic	CD molecules|V-set domain containing|Sialic acid binding Ig like lectins
+CD33	Myeloid Phagocytes & mic	CD molecules|V-set domain containing|Sialic acid binding Ig like lectins
+ZMAT4	NK & neu	Zinc fingers matrin-type
+CXCL1	Neutrophils LD & end	Chemokine ligands
+FCAR	Neutrophils LD & mic	CD molecules|Immunoglobulin like domain containing
+HSPA6	Neutrophils LD & mic	Heat shock 70kDa proteins
+FCGR1A	Neutrophils LD & mic	CD molecules|Immunoglobulin like domain containing
+FCGR1BP	Neutrophils LD & mic	Immunoglobulin like domain containing
+LRRC70	Progenitors & end	?
+COL24A1	Progenitors & end	Collagens
+ZNF385D	Progenitors & neu	?
+B4GALT6	Progenitors & neu	Beta 4-glycosyltransferases
+NUDT10	Progenitors & neu	Nudix hydrolase family
+CHRM3	Progenitors & neu	Cholinergic receptors muscarinic
+MAP7	Progenitors & oli	?
+IFITM3	ast & end	Interferon induced transmembrane proteins
+PTPRG	ast & end	Fibronectin type III domain containing|Protein tyrosine phosphatases receptor type
+FKBP9	ast & end	EF-hand domain containing|FKBP prolyl isomerases
+MAOA	ast & end	?
+NDP	ast & oli	Receptor ligands
+SCD5	ast & oli	Fatty acid desaturases|MicroRNA protein coding host genes
+PMP2	ast & oli	Fatty acid binding protein family
+CLIC2	end & mDCs	Chloride intracellular channels
+CASP10	end & mic	Caspases|Death effector domain containing|Death inducing signaling complex 
+CLEC2B	end & mic	C-type lectin domain containing
+CXCL8	end & mic	Chemokine ligands|Interleukins
+MX2	end & mic	?
+CASP4	end & mic	Caspases|Caspase recruitment domain containing
+GBP1	end & mic	Guanylate binding proteins
+ITGA5	end & mic	CD molecules|Integrin alpha subunits
+LPL	end & mic	Lipases
+MMP19	end & mic	M10 matrix metallopeptidases
+SP100	end & mic	PHD finger proteins|Bromodomain containing
+TRIM22	end & mic	Ring finger proteins|Tripartite motif containing|Minor histocompatibility antigens
+PRKCH	end & mic	C2 domain containing protein kinases|AGC family kinases
+ZFP36L1	end & mic	Zinc fingers CCCH-type
+KITLG	end & neu	?
+FAXDC2	end & oli	Fatty acid hydroxylase domain containing
+NOTCH4	end & pDCs	Notch receptors
+TPM2	end & pDCs	Tropomyosins
+MRC1	mDCs & mic	CD molecules|Scavenger receptors|C-type lectin domain containing|MicroRNA protein coding host genes
+ZNF708	mic & oli	Zinc fingers C2H2-type
+GGTA1	mic & pDCs	?
+SLC6A15	neu & oli	Solute carriers
+ANK3	neu & oli	Ankyrin repeat domain containing
+ANKS1B	neu & oli	Ankyrin repeat domain containing|Sterile alpha motif domain containing
+CNTNAP5	neu & oli	Contactin associated protein family
+GRIA3	neu & oli	Glutamate ionotropic receptor AMPA type subunits
+LINC00632	neu & oli	Long intergenic non-protein coding RNAs
+NRXN3	neu & oli	Neurexins
+RAB3IP	neu & oli	?

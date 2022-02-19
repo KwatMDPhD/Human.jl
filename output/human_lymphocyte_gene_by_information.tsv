@@ -1,0 +1,27 @@
+Gene	Human Immune Population	Family
+KLRF1	NK	Killer cell lectin like receptors|C-type lectin domain containing
+LGALS9B	NK	Galectins
+LGALS9C	NK	Galectins
+SIGLEC7	NK	CD molecules|V-set domain containing|Sialic acid binding Ig like lectins
+SPTSSB	NK	?
+ZMAT4	NK	Zinc fingers matrin-type
+KIR3DL1	NK	CD molecules|Killer cell immunoglobulin like receptors
+PDGFD	NK	?
+PLAAT2	Plasmablasts	Phospholipase A and acyltransferase family
+APOBEC3B	Plasmablasts	Apolipoprotein B mRNA editing enzyme catalytic subunits|Minor histocompatibility antigens
+FAM177B	B Naive	?
+GLYATL1B	B Naive	?
+MYO7B	B Naive	Myosin heavy chains, class VII|FERM domain containing
+COL9A3	B NSM	Collagens|Collagen proteoglycans
+FCRL2	B NSM	CD molecules|Immunoglobulin like domain containing
+PLEKHG7	B SM	Pleckstrin homology domain containing|Dbl family Rho GEFs
+ZNF860	B Naive+Memory	Zinc fingers C2H2-type
+CD24	B Naive+Memory	CD molecules
+EBF1	B Naive+Memory	Early B-cell factors|IPT domain containing
+TRABD2A	T Naive	?
+FAAH2	Tfh+Th	?
+FANK1	Tregs	Ankyrin repeat domain containing|Fibronectin type III domain containing
+ZDHHC11B	Th2	Zinc fingers DHHC-type
+CFH	MAIT	Sushi domain containing|Complement system regulators and receptors
+DSC1	T CD8 Naive	Desmosomal cadherins
+ZNF683	T CD8 TE	Zinc fingers C2H2-type

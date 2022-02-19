@@ -1,23 +1,22 @@
-# ---
-# Default lean project things
+# ----------------------------------------------------------------------------------------------- #
+# Default lean-project things
 
-#using LeanProject
+using LeanProject
 
 se = joinpath(dirname(@__DIR__), "input", "setting.json")
 
-#PAR, PAI, PAC, PAO = LeanProject.get_project_path(se)
+PAR, PAI, PAC, PAO = LeanProject.get_project_path(se)
 
-#SE = LeanProject.read_setting(se)
+SE = LeanProject.read_setting(se)
 
-# ---
-# Project specific things
+# ----------------------------------------------------------------------------------------------- #
+# Project-specific things
 
 using DataFrames
+using OnePiece
 using OrderedCollections
 using PlotlyJS
 using StatsBase
-
-using OnePiece
 
 function write_gene_by_method(di, or, me_ge_)
 
