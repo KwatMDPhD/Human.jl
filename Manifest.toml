@@ -279,7 +279,7 @@ uuid = "4af54fe1-eca0-43a8-85a7-787d91b784e3"
 
 [[deps.LeanProject]]
 deps = ["Comonicon", "OnePiece", "Pkg", "PkgRepository"]
-git-tree-sha1 = "e2bf39f4c876440e145f499b8644984874f9a017"
+git-tree-sha1 = "4e534058355163634173a7701fe6510e24a3f38e"
 repo-rev = "main"
 repo-url = "https://github.com/KwatMDPhD/LeanProject.jl"
 uuid = "c0bda0dd-97c7-4669-9191-98531c0d3141"
