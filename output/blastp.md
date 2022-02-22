@@ -228,6 +228,6 @@ Mouse: 0.0, 64.8%
 
 ### BlastP
 
-Thirteen-lined: 0.0, 86.6%
+Thirteen-lined ground squirrel: 0.0, 86.6%
 
 Mouse: 1.2e-27, 30.4%
