@@ -15,8 +15,6 @@ SE = LeanProject.read_setting(se)
 using DataFrames
 using OnePiece
 using OrderedCollections
-using PlotlyJS
-using StatsBase
 
 function write_gene_by_method(di, or, me_ge_)
 
@@ -30,11 +28,11 @@ function write_gene_by_method(di, or, me_ge_)
 
     end
 
-    an_ge_me[!, "Sum"] = vec(sum(Matrix(an_ge_me[!, 2:end]); dims = 2))
+    an_ge_me[!, "Sum"] = vec(sum(Matrix(an_ge_me[!, 2:end]), dims = 2))
 
-    sort!(an_ge_me, "Sum"; rev = true)
+    sort!(an_ge_me, "Sum", rev = true)
 
-    OnePiece.io.table.write(joinpath(di, string(or, "_gene_by_method.tsv")), an_ge_me)
+    OnePiece.table.write(joinpath(di, "$(or)_gene_x_method.tsv"), an_ge_me)
 
     an_ge_me
 

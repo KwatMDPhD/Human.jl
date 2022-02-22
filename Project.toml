@@ -1,3 +1,6 @@
 [deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
 LeanProject = "c0bda0dd-97c7-4669-9191-98531c0d3141"
 OnePiece = "1fe83854-81c0-42f7-afc9-71ba9af673ca"
+OrderedCollections = "bac558e1-5e72-5ebc-8fee-abe8a469f55d"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"

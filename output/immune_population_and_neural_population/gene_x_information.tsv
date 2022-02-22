@@ -1,0 +1,46 @@
+Gene	Immune Population and Neural Population	Group
+IFITM3	Astrocytes & Endothelial cells	Interferon induced transmembrane proteins
+PTPRG	Astrocytes & Endothelial cells	Fibronectin type III domain containing|Protein tyrosine phosphatases receptor type
+CXCL2	Astrocytes & Endothelial cells & Monocytes C	Chemokine ligands
+NDP	Astrocytes & Oligodendrocytes	Receptor ligands
+SCD5	Astrocytes & Oligodendrocytes	Fatty acid desaturases|MicroRNA protein coding host genes
+COL9A3	B NSM & Oligodendrocytes	Collagens|Collagen proteoglycans
+FAM177B	B Naive & Microglia	?
+GPR34	Basophils LD & Microglia	G protein-coupled receptors, Class A orphans
+RAB32	Basophils LD & Microglia	RAB, member RAS oncogene GTPases|A-kinase anchoring proteins
+CFH	Endothelial cells & MAIT	Sushi domain containing|Complement system regulators and receptors
+CASP10	Endothelial cells & Microglia	Caspases|Death effector domain containing|Death inducing signaling complex 
+CLEC2B	Endothelial cells & Microglia	C-type lectin domain containing
+CXCL8	Endothelial cells & Microglia	Chemokine ligands|Interleukins
+MX2	Endothelial cells & Microglia	?
+CASP4	Endothelial cells & Microglia	Caspases|Caspase recruitment domain containing
+GBP1	Endothelial cells & Microglia	Guanylate binding proteins
+ITGA5	Endothelial cells & Microglia	CD molecules|Integrin alpha subunits
+LPL	Endothelial cells & Microglia	Lipases
+MMP19	Endothelial cells & Microglia	M10 matrix metallopeptidases
+SP100	Endothelial cells & Microglia	PHD finger proteins|Bromodomain containing
+CXCL1	Endothelial cells & Neutrophils LD	Chemokine ligands
+LRRC70	Endothelial cells & Progenitors	?
+COL24A1	Endothelial cells & Progenitors	Collagens
+CLIC2	Endothelial cells & mDCs	Chloride intracellular channels
+NOTCH4	Endothelial cells & pDCs	Notch receptors
+TPM2	Endothelial cells & pDCs	Tropomyosins
+GPR84	Microglia & Monocytes C	G protein-coupled receptors, Class A orphans
+CTSL	Microglia & Monocytes NC+I	Cathepsins
+PILRA	Microglia & Myeloid	V-set domain containing
+SIGLEC14	Microglia & Myeloid	V-set domain containing|Sialic acid binding Ig like lectins
+SIGLEC9	Microglia & Myeloid Phagocytes	CD molecules|V-set domain containing|Sialic acid binding Ig like lectins
+FCAR	Microglia & Neutrophils LD	CD molecules|Immunoglobulin like domain containing
+HSPA6	Microglia & Neutrophils LD	Heat shock 70kDa proteins
+ZNF708	Microglia & Oligodendrocytes	Zinc fingers C2H2-type
+GGTA1	Microglia & pDCs	?
+ZMAT4	NK & Neurons	Zinc fingers matrin-type
+SLC6A15	Neurons & Oligodendrocytes	Solute carriers
+ANK3	Neurons & Oligodendrocytes	Ankyrin repeat domain containing
+ANKS1B	Neurons & Oligodendrocytes	Ankyrin repeat domain containing|Sterile alpha motif domain containing
+CNTNAP5	Neurons & Oligodendrocytes	Contactin associated protein family
+GRIA3	Neurons & Oligodendrocytes	Glutamate ionotropic receptor AMPA type subunits
+ZNF385D	Neurons & Progenitors	?
+B4GALT6	Neurons & Progenitors	Beta 4-glycosyltransferases
+NUDT10	Neurons & Progenitors	Nudix hydrolase family
+MAP7	Oligodendrocytes & Progenitors	?
