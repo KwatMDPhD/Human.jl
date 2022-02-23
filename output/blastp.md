@@ -1,4 +1,4 @@
-uniprot.org > Protein > Chain > BlastP (Rodents, threshold=10, filtered=false, gapped=true)
+uniprot.org > Protein > Chain > BlastP (rodents, e_threshold=10, matrix=auto, filtering=none, gapped=yes)
 
 ### Gene
 
@@ -40,9 +40,9 @@ Mouse: 25.8%
 
 ### APOBEC3B
 
-Rodent:
+American beaver: 41.6%
 
-Mouse:
+Mouse: 32.8%
 
 ### PLAAT2
 
