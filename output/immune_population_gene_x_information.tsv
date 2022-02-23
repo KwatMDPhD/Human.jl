@@ -1,16 +1,16 @@
-Gene	Immune Population	Group
-COL9A3	B NSM	Collagens|Collagen proteoglycans
-FAM177B	B Naive	?
-GLYATL1B	B Naive	?
-ZNF860	B Naive+Memory	Zinc fingers C2H2-type
-PLEKHG7	B SM	Pleckstrin homology domain containing|Dbl family Rho GEFs
-APOBEC3B	Plasmablasts	Apolipoprotein B mRNA editing enzyme catalytic subunits|Minor histocompatibility antigens
-PLAAT2	Plasmablasts	Phospholipase A and acyltransferase family
-CFH	MAIT	Sushi domain containing|Complement system regulators and receptors
-KIR2DP1	NK	Killer cell immunoglobulin like receptors
-KLRF1	NK	Killer cell lectin like receptors|C-type lectin domain containing
-LGALS9B	NK	Galectins
-LGALS9C	NK	Galectins
-ZNF683	T CD8 TE	Zinc fingers C2H2-type
-TRABD2A	T Naive	?
-FAAH2	Tfh+Th	?
+Gene	Immune Population	Group	Top blastp against mouse
+COL9A3	B NSM	Collagens|Collagen proteoglycans	0.512
+FAM177B	B Naive	?	0.388
+GLYATL1B	B Naive	?	0.412
+ZNF860	B Naive+Memory	Zinc fingers C2H2-type	0.438
+PLEKHG7	B SM	Pleckstrin homology domain containing|Dbl family Rho GEFs	0.258
+CFH	MAIT	Sushi domain containing|Complement system regulators and receptors	0.614
+KIR2DP1	NK	Killer cell immunoglobulin like receptors	0.401
+KLRF1	NK	Killer cell lectin like receptors|C-type lectin domain containing	0.303
+LGALS9B	NK	Galectins	0.685
+LGALS9C	NK	Galectins	0.688
+APOBEC3B	Plasmablasts	Apolipoprotein B mRNA editing enzyme catalytic subunits|Minor histocompatibility antigens	0.328
+PLAAT2	Plasmablasts	Phospholipase A and acyltransferase family	0.701
+ZNF683	T CD8 TE	Zinc fingers C2H2-type	0.56
+TRABD2A	T Naive	?	0.648
+FAAH2	Tfh+Th	?	0.304
