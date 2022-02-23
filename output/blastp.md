@@ -1,3 +1,5 @@
+uniprot.org > Protein > Chain > BlastP (Rodents, threshold=10, filtered=false, gapped=true)
+
 ### Gene
 
 Top rodent: Identity
