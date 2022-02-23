@@ -78,6 +78,8 @@ Prairie deer mouse: 44.3%
 
 Mouse: 39.5%
 
+---
+
 ### COL9A3
 
 Thirteen-lined ground squirrel: 92.9%
