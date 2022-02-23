@@ -80,6 +80,8 @@ Prairie deer mouse: 44.9%
 
 Mouse: 40.1%
 
+(Other KIR genes have similar results.)
+
 ### KLRF1
 
 Woodchuck: 37.8%
@@ -115,65 +117,3 @@ Mouse: 64.8%
 Thirteen-lined ground squirrel: 86.6%
 
 Mouse: 30.4%
-
----
-
-### KIR2DL2
-
-Prairie deer mouse: 44.8%
-
-Mouse: 40.4%
-
-### KIR2DL5A
-
-Golden hamster: 40.8%
-
-Mouse: 37.5%
-
-### KIR2DL5B
-
-Golden hamster: 40.2%
-
-Mouse: 37.1%
-
-### KIR2DS1
-
-Prairie deer mouse: 44.9%
-
-Mouse: 39.5%
-
-### KIR2DS2
-
-Prairie deer mouse: 45.5%
-
-Mouse: 40.9%
-
-### KIR2DS3
-
-Prairie deer mouse: 44.9%
-
-Mouse 38.8%
-
-### KIR2DS5
-
-Prairie deer mouse: 45.5%
-
-Mouse: 39.5%
-
-### KIR3DS1
-
-Prairie deer mouse: 50.0%
-
-Mouse: 42.5%
-
-### KIR2DL1
-
-Prairie deer mouse: 45.4%
-
-Mouse: 40.1%
-
-### KIR2DL3
-
-Prairie deer mouse: 44.3%
-
-Mouse: 39.5%
