@@ -86,12 +86,6 @@ Thirteen-lined ground squirrel: 92.9%
 
 Mouse: 51.2%
 
-### FCRL2
-
-Guinea pig: 51.1%
-
-Mouse: 44.5%
-
 ### FAM177B
 
 Golden hamster: 66.4%
@@ -116,11 +110,29 @@ Ord's kangatoo rat: 81.3%
 
 Mouse: 25.8%
 
+### APOBEC3B
+
+Rodent:
+
+Mouse:
+
+### PLAAT2
+
+Rodent:
+
+Mouse:
+
 ### CFH
 
 Naked mole rat: 66.2%
 
 Mouse: 61.4%
+
+### KIR2DP1
+
+Rodent:
+
+Mouse:
 
 ### KLRF1
 
