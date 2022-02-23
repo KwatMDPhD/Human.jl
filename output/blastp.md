@@ -1,12 +1,30 @@
+## Method
+
 uniprot.org > Protein > Chain > BlastP (rodents, e_threshold=10, matrix=auto, filtering=none, gapped=yes)
 
 ### Gene
 
-Top rodent: Identity
+Rodent with the most similar protein: Identity
 
 Mouse: Identity
 
----
+## Positvie control
+
+### KRAS
+
+Woodchuck and several other rodents: 100.0%
+
+Mouse: 99.5%
+
+## Negative control
+
+### GNLY (negativie control)
+
+Ricefield mouse: 30.2%
+
+Mouse: 29.2%
+
+## Immune genes not in mice and in humans
 
 ### COL9A3
 
@@ -58,9 +76,9 @@ Mouse: 61.4%
 
 ### KIR2DP1
 
-Prairie deer mouse:
+Prairie deer mouse: 44.9%
 
-Mouse:
+Mouse: 40.1%
 
 ### KLRF1
 
@@ -97,22 +115,6 @@ Mouse: 64.8%
 Thirteen-lined ground squirrel: 86.6%
 
 Mouse: 30.4%
-
----
-
-### KRAS
-
-Woodchuck and others: 100.0%
-
-Mouse: 99.5%
-
----
-
-### GNLY
-
-Ricefield mouse: 30.2%
-
-Mouse: 29.2%
 
 ---
 
