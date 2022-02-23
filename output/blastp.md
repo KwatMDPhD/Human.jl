@@ -46,9 +46,9 @@ Mouse: 32.8%
 
 ### PLAAT2
 
-Rodent:
+Woodchuck: 69.8%
 
-Mouse:
+Mouse: 70.1%
 
 ### CFH
 
@@ -58,7 +58,7 @@ Mouse: 61.4%
 
 ### KIR2DP1
 
-Rodent:
+Prairie deer mouse:
 
 Mouse:
 
