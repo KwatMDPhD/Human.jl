@@ -6,80 +6,6 @@ Mouse: Identity
 
 ---
 
-### KRAS
-
-Woodchuck and others: 100.0%
-
-Mouse: 99.5%
-
-### GNLY
-
-Ricefield mouse: 30.2%
-
-Mouse: 29.2%
-
-### KIR2DL2
-
-Prairie deer mouse: 44.8%
-
-Mouse: 40.4%
-
-### KIR2DL5A
-
-Golden hamster: 40.8%
-
-Mouse: 37.5%
-
-### KIR2DL5B
-
-Golden hamster: 40.2%
-
-Mouse: 37.1%
-
-### KIR2DS1
-
-Prairie deer mouse: 44.9%
-
-Mouse: 39.5%
-
-### KIR2DS2
-
-Prairie deer mouse: 45.5%
-
-Mouse: 40.9%
-
-### KIR2DS3
-
-Prairie deer mouse: 44.9%
-
-Mouse 38.8%
-
-### KIR2DS5
-
-Prairie deer mouse: 45.5%
-
-Mouse: 39.5%
-
-### KIR3DS1
-
-Prairie deer mouse: 50.0%
-
-Mouse: 42.5%
-
-### KIR2DL1
-
-Prairie deer mouse: 45.4%
-
-Mouse: 40.1%
-
-### KIR2DL3
-
-Prairie deer mouse: 44.3%
-
-Mouse: 39.5%
-
----
-
 ### COL9A3
 
 Thirteen-lined ground squirrel: 92.9%
@@ -152,24 +78,6 @@ Woodchuck: 75.0%
 
 Mouse: 68.8%
 
-### SIGLEC7
-
-Guinea pig: 56.4%
-
-Mouse: 53.1%
-
-### SPTSSB
-
-Woodchuck: 96.1%
-
-Mouse: 85.5%
-
-### DSC1
-
-Woodchuck: 85.1%
-
-Mouse: 82.8%
-
 ### ZNF683
 
 Damaraland mole rat: 60.8%
@@ -187,3 +95,81 @@ Mouse: 64.8%
 Thirteen-lined ground squirrel: 86.6%
 
 Mouse: 30.4%
+
+---
+
+### KRAS
+
+Woodchuck and others: 100.0%
+
+Mouse: 99.5%
+
+---
+
+### GNLY
+
+Ricefield mouse: 30.2%
+
+Mouse: 29.2%
+
+---
+
+### KIR2DL2
+
+Prairie deer mouse: 44.8%
+
+Mouse: 40.4%
+
+### KIR2DL5A
+
+Golden hamster: 40.8%
+
+Mouse: 37.5%
+
+### KIR2DL5B
+
+Golden hamster: 40.2%
+
+Mouse: 37.1%
+
+### KIR2DS1
+
+Prairie deer mouse: 44.9%
+
+Mouse: 39.5%
+
+### KIR2DS2
+
+Prairie deer mouse: 45.5%
+
+Mouse: 40.9%
+
+### KIR2DS3
+
+Prairie deer mouse: 44.9%
+
+Mouse 38.8%
+
+### KIR2DS5
+
+Prairie deer mouse: 45.5%
+
+Mouse: 39.5%
+
+### KIR3DS1
+
+Prairie deer mouse: 50.0%
+
+Mouse: 42.5%
+
+### KIR2DL1
+
+Prairie deer mouse: 45.4%
+
+Mouse: 40.1%
+
+### KIR2DL3
+
+Prairie deer mouse: 44.3%
+
+Mouse: 39.5%
