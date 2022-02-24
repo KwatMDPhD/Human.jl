@@ -1,7 +1,7 @@
 Gene	Immune Population and Neural Population	Group	Top blastp against mouse
 CXCL2	Astrocytes & Endothelial cells & Monocytes C	Chemokine ligands	0.735
 COL9A3	B NSM & Oligodendrocytes	Collagens|Collagen proteoglycans	0.512
-FAM177B	B Naive & Microglia	?	0.388
+FAM177B	B Naive & Microglia	Family with sequence similarity 177 member B	0.388
 RAB32	Basophils LD & Microglia	RAB, member RAS oncogene GTPases|A-kinase anchoring proteins	0.839
 CFH	Endothelial cells & MAIT	Sushi domain containing|Complement system regulators and receptors	0.614
 CXCL1	Endothelial cells & Neutrophils LD	Chemokine ligands	0.701
@@ -14,4 +14,4 @@ SIGLEC14	Microglia & Myeloid	V-set domain containing|Sialic acid binding Ig like
 FCAR	Microglia & Neutrophils LD	CD molecules|Immunoglobulin like domain containing|Fc receptors	0.327
 HSPA6	Microglia & Neutrophils LD	Heat shock 70kDa proteins	0.815
 FPR3	Microglia & mDCs	Formyl peptide receptors	0.634
-GGTA1	Microglia & pDCs	?	0.654
+GGTA1	Microglia & pDCs	Glycoprotein alpha-galactosyltransferase 1 (inactive)	0.654
