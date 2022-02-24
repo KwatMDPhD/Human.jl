@@ -1,25 +1,9 @@
 Gene	Immune Population and Neural Population	Group	Top blastp against mouse
-MT1E	Astrocytes & Endothelial cells	Metallothioneins	NaN
-MT1F	Astrocytes & Endothelial cells	Metallothioneins	NaN
-MT1M	Astrocytes & Endothelial cells	Metallothioneins	NaN
-MT1X	Astrocytes & Endothelial cells	Metallothioneins	NaN
-MT2A	Astrocytes & Endothelial cells	Metallothioneins	NaN
-PTPRG	Astrocytes & Endothelial cells	Fibronectin type III domain containing|Protein tyrosine phosphatases receptor type	NaN
 CXCL2	Astrocytes & Endothelial cells & Monocytes C	Chemokine ligands	NaN
-GNAO1	Astrocytes & Oligodendrocytes	G protein subunits alpha, group i|MicroRNA protein coding host genes	NaN
-SCD5	Astrocytes & Oligodendrocytes	Fatty acid desaturases|MicroRNA protein coding host genes	NaN
 COL9A3	B NSM & Oligodendrocytes	Collagens|Collagen proteoglycans	0.512
 FAM177B	B Naive & Microglia	?	0.388
 RAB32	Basophils LD & Microglia	RAB, member RAS oncogene GTPases|A-kinase anchoring proteins	NaN
 CFH	Endothelial cells & MAIT	Sushi domain containing|Complement system regulators and receptors	0.614
-CASP10	Endothelial cells & Microglia	Caspases|Death effector domain containing|Death inducing signaling complex 	NaN
-CASP4	Endothelial cells & Microglia	Caspases|Caspase recruitment domain containing	NaN
-CLEC2B	Endothelial cells & Microglia	C-type lectin domain containing	NaN
-CXCL8	Endothelial cells & Microglia	Chemokine ligands|Interleukins	NaN
-GBP1	Endothelial cells & Microglia	Guanylate binding proteins	NaN
-HLA-B	Endothelial cells & Microglia	Histocompatibility complex|C1-set domain containing|MicroRNA protein coding host genes	NaN
-MX2	Endothelial cells & Microglia	?	NaN
-MYL12A	Endothelial cells & Microglia	Myosin light chains, class 2	NaN
 CXCL1	Endothelial cells & Neutrophils LD	Chemokine ligands	NaN
 COL24A1	Endothelial cells & Progenitors	Collagens	NaN
 LRRC70	Endothelial cells & Progenitors	?	NaN
@@ -31,9 +15,7 @@ PILRA	Microglia & Myeloid	V-set domain containing	NaN
 SIGLEC14	Microglia & Myeloid	V-set domain containing|Sialic acid binding Ig like lectins	NaN
 FCAR	Microglia & Neutrophils LD	CD molecules|Immunoglobulin like domain containing|Fc receptors	NaN
 HSPA6	Microglia & Neutrophils LD	Heat shock 70kDa proteins	NaN
-ZNF708	Microglia & Oligodendrocytes	Zinc fingers C2H2-type	NaN
 FPR3	Microglia & mDCs	Formyl peptide receptors	NaN
 GGTA1	Microglia & pDCs	?	NaN
-CNTNAP5	Neurons & Oligodendrocytes	Contactin associated protein family	NaN
 NUDT10	Neurons & Progenitors	Nudix hydrolase family	NaN
 ZNF385D	Neurons & Progenitors	?	NaN
