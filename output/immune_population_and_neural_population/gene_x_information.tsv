@@ -1,21 +1,17 @@
 Gene	Immune Population and Neural Population	Group	Top blastp against mouse
-CXCL2	Astrocytes & Endothelial cells & Monocytes C	Chemokine ligands	NaN
+CXCL2	Astrocytes & Endothelial cells & Monocytes C	Chemokine ligands	0.735
 COL9A3	B NSM & Oligodendrocytes	Collagens|Collagen proteoglycans	0.512
 FAM177B	B Naive & Microglia	?	0.388
-RAB32	Basophils LD & Microglia	RAB, member RAS oncogene GTPases|A-kinase anchoring proteins	NaN
+RAB32	Basophils LD & Microglia	RAB, member RAS oncogene GTPases|A-kinase anchoring proteins	0.839
 CFH	Endothelial cells & MAIT	Sushi domain containing|Complement system regulators and receptors	0.614
-CXCL1	Endothelial cells & Neutrophils LD	Chemokine ligands	NaN
-COL24A1	Endothelial cells & Progenitors	Collagens	NaN
-LRRC70	Endothelial cells & Progenitors	?	NaN
-CLIC2	Endothelial cells & mDCs	Chloride intracellular channels	NaN
-NOTCH4	Endothelial cells & pDCs	Notch receptors	NaN
-GPR84	Microglia & Monocytes C	G protein-coupled receptors, Class A orphans	NaN
-CTSL	Microglia & Monocytes NC+I	Cathepsins	NaN
-PILRA	Microglia & Myeloid	V-set domain containing	NaN
-SIGLEC14	Microglia & Myeloid	V-set domain containing|Sialic acid binding Ig like lectins	NaN
-FCAR	Microglia & Neutrophils LD	CD molecules|Immunoglobulin like domain containing|Fc receptors	NaN
-HSPA6	Microglia & Neutrophils LD	Heat shock 70kDa proteins	NaN
-FPR3	Microglia & mDCs	Formyl peptide receptors	NaN
-GGTA1	Microglia & pDCs	?	NaN
-NUDT10	Neurons & Progenitors	Nudix hydrolase family	NaN
-ZNF385D	Neurons & Progenitors	?	NaN
+CXCL1	Endothelial cells & Neutrophils LD	Chemokine ligands	0.701
+CLIC2	Endothelial cells & mDCs	Chloride intracellular channels	0.662
+NOTCH4	Endothelial cells & pDCs	Notch receptors	0.808
+GPR84	Microglia & Monocytes C	G protein-coupled receptors, Class A orphans	0.856
+CTSL	Microglia & Monocytes NC+I	Cathepsins	0.785
+PILRA	Microglia & Myeloid	V-set domain containing	0.469
+SIGLEC14	Microglia & Myeloid	V-set domain containing|Sialic acid binding Ig like lectins	0.498
+FCAR	Microglia & Neutrophils LD	CD molecules|Immunoglobulin like domain containing|Fc receptors	0.327
+HSPA6	Microglia & Neutrophils LD	Heat shock 70kDa proteins	0.815
+FPR3	Microglia & mDCs	Formyl peptide receptors	0.634
+GGTA1	Microglia & pDCs	?	0.654
