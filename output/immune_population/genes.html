@@ -1,6 +1,17 @@
 <!doctype html>
-<div id="genes" style="height: 100%; width: 100%"></div>
+<div id="plot" style="display: block; height: 1000px; width: 80%; margin-left: auto; margin-right: auto; background: #fdfdfd"></div>
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 <script>
-Plotly.newPlot("genes", [{"x":["B NSM","Monocytes I","T Naive","Cytotoxic","B SM","MAIT","T CD8 TE","Monocytes NC","Tfh+Th","Granulocytes LD","Myeloid Phagocytes","B Naive+Memory","B Naive","Plasmablasts","Myeloid","Monocytes NC+I","mDCs","Monocytes C","NK","pDCs","Basophils LD","Neutrophils LD"],"type":"bar","opacity":0.8,"y":[1,1,1,1,1,1,1,1,1,1,1,1,2,2,3,3,4,4,4,9,14,21]}], {"height":1500,"margin_b":240,"hovermode":"closest","xaxis":{"automargin":true,"title":{"font_size":48,"text":"<b>Immune Population<b>"}},"title":{"font_size":32,"text":"<b>Number of Human Genes in Immune Population<b>"},"barmode":"stack","width":2427,"yaxis":{"automargin":true,"title":{"font_size":48,"text":"<b>Number of Human Genes<b>"}}}, {"displaylogo":false,"modebarbuttonstoremove":["select","lasso","resetscale"],"responsive":true});
+Plotly.newPlot(
+
+    "plot",
+
+    [{"x":["B NSM","Monocytes I","T Naive","Cytotoxic","B SM","MAIT","T CD8 TE","Monocytes NC","Tfh+Th","Granulocytes LD","Myeloid Phagocytes","B Naive+Memory","B Naive","Plasmablasts","Myeloid","Monocytes NC+I","mDCs","Monocytes C","NK","pDCs","Basophils LD","Neutrophils LD"],"type":"bar","opacity":0.8,"y":[1,1,1,1,1,1,1,1,1,1,1,1,2,2,3,3,4,4,4,9,14,21]}],
+
+    {"height":1500,"margin_b":240,"hovermode":"closest","xaxis":{"automargin":true,"title":{"font_size":48,"text":"<b>Immune Population<b>"}},"title":{"font_size":32,"text":"<b>Number of Human Genes in Immune Population<b>"},"barmode":"stack","width":2427,"yaxis":{"automargin":true,"title":{"font_size":48,"text":"<b>Number of Human Genes<b>"}}},
+
+    {"displaylogo":false,"editable":false,"modebarbuttonstoremove":["select","lasso","resetscale"],"responsive":true},
+
+)
+
 </script>
