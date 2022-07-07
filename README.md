@@ -1,6 +1,6 @@
 # HumanGenes.pro
 
-Do something :blush:
+Genes unique to humans 👶
 
 ---
 
