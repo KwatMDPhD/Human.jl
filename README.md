@@ -1,7 +1,3 @@
-# HumanGene.pro
-
-Genes unique to humans :baby:
-
 ---
 
 ## :wave: :cowboy_hat_face: Howdy
