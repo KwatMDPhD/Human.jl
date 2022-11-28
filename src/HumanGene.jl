@@ -2,4 +2,4 @@ module HumanGene
 
 end
 
-using OnePiece
+using BioinformaticsCore
