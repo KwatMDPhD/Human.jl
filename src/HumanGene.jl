@@ -2,4 +2,4 @@ module HumanGene
 
 end
 
-using BioinformaticsCore
+using BioLab
