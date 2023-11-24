@@ -1,4 +1,4 @@
-👶
+Find human-specific genes 👶
 
 ---
 
