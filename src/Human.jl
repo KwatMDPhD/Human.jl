@@ -1,5 +1,9 @@
 module Human
 
-const OU = joinpath(dirname(@__DIR__), "output")
+const PA = dirname(@__DIR__)
+
+const DA = joinpath(PA, "data")
+
+const OU = joinpath(PA, "output")
 
 end
