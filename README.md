@@ -1,4 +1,4 @@
-# Human-specific genes 👶
+# 👶
 
 ---
 
