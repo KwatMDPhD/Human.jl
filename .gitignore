@@ -6,4 +6,4 @@ Manifest.toml
 
 output/*
 
-!output/.gitkeep
+!output/.keep
