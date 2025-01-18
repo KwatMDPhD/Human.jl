@@ -1,10 +1,10 @@
 module Human
 
-const PA = dirname(@__DIR__)
+const RO = dirname(@__DIR__)
 
-const DA = joinpath(PA, "data")
+const IP = joinpath(RO, "input")
 
-const OU = joinpath(PA, "output")
+const OU = joinpath(RO, "output")
 
 # ----------------------------------------------------------------------------------------------- #
 

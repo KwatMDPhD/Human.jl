@@ -1,12 +1,17 @@
 using Human
 
-using Test: @test
+for jl in readdir(; join = true)
+
+    if jl == @__FILE__
+
+        continue
+
+    end
+
+    @info "🎬 Running $jl"
+
+    run(`julia --project $jl`)
+
+end
 
 # ----------------------------------------------------------------------------------------------- #
-
-# ---- #
-
-foreach(
-    jl -> run(`julia --project $jl`),
-    filter!(!endswith("runtests.jl"), readdir(; join = true)),
-)
